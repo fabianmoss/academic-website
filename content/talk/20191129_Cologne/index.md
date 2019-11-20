@@ -5,7 +5,7 @@ title: "Transitions of Tonality: Perspectives on the Historical Changes of Tonal
 from Computational Musicology, Music Theory, and the Digital Humanities."
 event:
 event_url:
-location:
+location: University of Cologne, Musikwissenschaftliches Institut, Alter Seminarraum (1.408)
 address:
   street:
   city: Cologne
