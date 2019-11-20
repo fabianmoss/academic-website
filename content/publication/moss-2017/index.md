@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Music Theory & Analysis*"
 doi: "https://doi.org/10.11116/MTA.4.1.7 1"
----
 
+links:
+- name: Preprint
+  url: "https://www.researchgate.net/publication/317035388_Book_Review_David_HURON_Voice_Leading_The_Science_behind_a_Musical_Art"
+---
