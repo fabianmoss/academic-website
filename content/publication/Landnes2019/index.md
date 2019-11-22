@@ -16,7 +16,7 @@ publishDate: 2019-10-02T18:18:47+02:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 16th Sound & Music Computing Conference (SMC 2019)"
+publication: "*Proceedings of the 16th Sound & Music Computing Conference (SMC 2019)*"
 publication_short: ""
 
 abstract: ""
