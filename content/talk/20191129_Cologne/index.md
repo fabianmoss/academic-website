@@ -3,8 +3,8 @@
 
 title: "Transitions of Tonality: Perspectives on the Historical Changes of Tonal Pitch Relations
 from Computational Musicology, Music Theory, and the Digital Humanities."
-event:
-event_url:
+event: Vortrag
+event_url: https://musikwissenschaft.phil-fak.uni-koeln.de/sites/muwi/user_upload/FabianMossTalkWord.pdf
 location: University of Cologne, Musikwissenschaftliches Institut, Alter Seminarraum (1.408)
 address:
   street:
