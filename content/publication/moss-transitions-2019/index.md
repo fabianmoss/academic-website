@@ -9,4 +9,3 @@ featured: false
 publication: "Doctoral Dissertation. *École Polytechnique Fédérale de Lausanne, Switzerland*"
 doi: "10.5075/epfl-thesis-9808"
 ---
-
