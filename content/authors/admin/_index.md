@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Assistant
+role: Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://dcml.epfl.ch"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Fabian C. Moss is a PhD student of Martin Rohrmeier in the _Digital and Cognitive Musicology Lab_ (DCML) at École Polytechnique Fédérale de Lausanne (EPFL, Switzerland). He was born in Cologne, Germany, and studied Mathematics and Educational Studies at University of Cologne, and Music Education (Major Piano) and Musicology at Hochschule für Musik und Tanz, Köln. Working with large symbolic datasets of musical scores and harmonic annotations, he is primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship.
+bio: Fabian C. Moss is doctoral researcher in the _Digital and Cognitive Musicology Lab_ (DCML) at École Polytechnique Fédérale de Lausanne (EPFL, Switzerland). He was born in Cologne, Germany, and studied Mathematics and Educational Studies at University of Cologne, and Music Education (Major Piano) and Musicology at Hochschule für Musik und Tanz, Köln. Working with large symbolic datasets of musical scores and harmonic annotations, he is primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship.
 
 interests:
 - Music Theory and Analysis
