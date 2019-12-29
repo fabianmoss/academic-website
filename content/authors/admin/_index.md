@@ -32,14 +32,14 @@ interests:
 
 education:
   courses:
-#  - course: PhD in Digital Humanities
-#    institution: École Polytechnique Fédérale de Lausanne
-#    year: 2019
+  - course: PhD in Digital Humanities
+    institution: École Polytechnique Fédérale de Lausanne, Lausanne Switzerland
+    year: 2019
   - course: Staatsexamen Lehramt für Gymnasien und Gesamtschulen (Mathematik, Musik, Erziehungswissenschaft)
-    institution: Universität zu Köln
+    institution: Universität zu Köln, Germany
     year: 2016
   - course: MA in Musicology
-    institution: Hochschule für Musik und Tanz, Köln
+    institution: Hochschule für Musik und Tanz, Köln, Germany
     year: 2012
 
 # Social/Academic Networking
