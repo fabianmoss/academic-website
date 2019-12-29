@@ -76,6 +76,6 @@ social:
 ---
 
 
-I am a PhD student of Martin Rohrmeier in the Digital and Cognitive Musicology Lab (DCML) at École Polytechnique Fédérale de Lausanne (Switzerland) and am primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship. I work with large symbolic datasets of musical scores and harmonic annotations. My  main thematic focus lies on chromatic harmony, or extended tonality.
+I am a doctoral researcher in the [_Digital and Cognitive Musicology Lab_ (DCML)](https://dcml.epfl.ch) at [École Polytechnique Fédérale de Lausanne](https://epfl.ch) (Switzerland) and am primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship. I work with large symbolic datasets of musical scores and harmonic annotations. My  main thematic focus lies on chromatic harmony, or extended tonality.
 
 I was born in Cologne, Germany, and studied Mathematics and Educational Studies at Universiy of Cologne, and Music Education (Major Piano) and Musicology at Hochschule für Musik und Tanz, Köln.
