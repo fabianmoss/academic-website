@@ -50,7 +50,7 @@ url_video: https://www.youtube.com/watch?v=UOBG5ZNgzjA
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
