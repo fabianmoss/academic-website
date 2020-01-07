@@ -6,9 +6,9 @@ authors: ["Markus Neuwirth", "Daniel Harasim", "Fabian C. Moss", "Martin Rohrmei
 publication_types: ["2"]
 abstract: ""
 featured: false
+categories: [data]
 publication: "*Frontiers in Digital Humanities*"
 tags: ["beethoven", "corpus research", "digital musicology", "ground truth", "harmony", "music", "music", "digital musicology", "corpus research", "ground", "symbolic music data"]
 url_pdf: "https://www.frontiersin.org/article/10.3389/fdigh.2018.00016/full"
 doi: "10.3389/fdigh.2018.00016"
 ---
-
