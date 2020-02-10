@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -75,4 +75,4 @@ social:
 # - Visitors
 ---
 
-I am a postdoctoral researcher in the [_Digital and Cognitive Musicology Lab_ (DCML)](https://dcml.epfl.ch) at [École Polytechnique Fédérale de Lausanne](https://epfl.ch) (Switzerland) and am primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship. I was born in Cologne, Germany, and studied Mathematics and Educational Studies at Universiy of Cologne, and Music Education (Major Piano) and Musicology at Hochschule für Musik und Tanz, Köln. Working with large symbolic datasets of musical scores and harmonic annotations, I am primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship with a focus on chromatic harmony and or extended tonality. 
+I am a postdoctoral researcher in the [_Digital and Cognitive Musicology Lab_ (DCML)](https://dcml.epfl.ch) at [École Polytechnique Fédérale de Lausanne](https://epfl.ch) (Switzerland) and am primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship. I was born in Cologne, Germany, and studied Mathematics and Educational Studies at Universiy of Cologne, and Music Education (Major Piano) and Musicology at Hochschule für Musik und Tanz, Köln. Working with large symbolic datasets of musical scores and harmonic annotations, I am primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship with a focus on chromatic harmony and or extended tonality.
