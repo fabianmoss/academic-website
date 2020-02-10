@@ -18,7 +18,7 @@ organizations:
   url: "http://dcml.epfl.ch"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Fabian C. Moss is doctoral researcher in the _Digital and Cognitive Musicology Lab_ (DCML) at École Polytechnique Fédérale de Lausanne (EPFL, Switzerland). He was born in Cologne, Germany, and studied Mathematics and Educational Studies at University of Cologne, and Music Education (Major Piano) and Musicology at Hochschule für Musik und Tanz, Köln. Working with large symbolic datasets of musical scores and harmonic annotations, he is primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship.
+bio: Fabian C. Moss is postdoctoral researcher in the _Digital and Cognitive Musicology Lab_ (DCML) at École Polytechnique Fédérale de Lausanne (EPFL, Switzerland). He was born in Cologne, Germany, and studied Mathematics and Educational Studies at University of Cologne, and Music Education (Major Piano) and Musicology at Hochschule für Musik und Tanz, Köln. Working with large symbolic datasets of musical scores and harmonic annotations, he is primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship.
 
 interests:
 - Music Theory and Analysis
@@ -75,7 +75,4 @@ social:
 # - Visitors
 ---
 
-
-I am a doctoral researcher in the [_Digital and Cognitive Musicology Lab_ (DCML)](https://dcml.epfl.ch) at [École Polytechnique Fédérale de Lausanne](https://epfl.ch) (Switzerland) and am primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship. I work with large symbolic datasets of musical scores and harmonic annotations. My  main thematic focus lies on chromatic harmony, or extended tonality.
-
-I was born in Cologne, Germany, and studied Mathematics and Educational Studies at Universiy of Cologne, and Music Education (Major Piano) and Musicology at Hochschule für Musik und Tanz, Köln.
+I am a postdoctoral researcher in the [_Digital and Cognitive Musicology Lab_ (DCML)](https://dcml.epfl.ch) at [École Polytechnique Fédérale de Lausanne](https://epfl.ch) (Switzerland) and am primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship. I was born in Cologne, Germany, and studied Mathematics and Educational Studies at Universiy of Cologne, and Music Education (Major Piano) and Musicology at Hochschule für Musik und Tanz, Köln. Working with large symbolic datasets of musical scores and harmonic annotations, I am primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship with a focus on chromatic harmony and or extended tonality. 
