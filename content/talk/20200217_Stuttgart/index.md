@@ -2,9 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Computational Musicology and the Digital Humanities: Problems, Practices, and Prospects"
-event:
+event: "CRETA-Werkstatt #9"
 event_url:
-location: Institut für Maschinelle Sprachverarbeitung
+location: "Universität Stuttgart, Center for Reflected Text Analytics, Raum M 51.01, Herdweg 51 (Abteilung für Digital Humanities)"
+
 address:
   street:
   city: Stuttgart
@@ -16,8 +17,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-02-17T15:00:00+01:00
-date_end: 2020-02-17T15:30:00+01:00
+date: 2020-02-18T11:00:00+01:00
+date_end: 2020-02-18T11:45:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
