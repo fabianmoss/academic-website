@@ -3,13 +3,13 @@
 
 title: "Distant Listening"
 summary: ""
-authors: []
-tags: []
+authors: [admin]
+tags: [Digital Humanities, Corpus Research]
 categories: []
 date: 2020-02-14T12:02:19+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.epfl.ch/labs/dcml/projects/distant-listening/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
