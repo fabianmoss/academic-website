@@ -3,7 +3,7 @@ title: stuttgart
 date: "2018-06-02T16:43:02-04:00"
 ---
 
-class: center, middle
+<!-- class: center, middle -->
 
 # Computational Musicology and the Digital Humanities
 ## Problems, Practices, and Prospects
@@ -82,7 +82,7 @@ But compare to [RISM database](https://opac.rism.info):
 
 ---
 
-### Audio test
+## Audio test
 
 <div align="center">
 <img src="img/chopin.jpg" width=200>

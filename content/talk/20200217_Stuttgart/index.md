@@ -25,7 +25,7 @@ all_day: false
 publishDate: 2020-01-15T10:51:49+01:00
 
 authors: [admin]
-tags: []
+tags: [Computational Musicology, Digital Humanities]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -65,5 +65,5 @@ slides: "20200218_Stuttgart"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [distant-listening]
 ---
