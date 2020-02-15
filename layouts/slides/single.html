@@ -80,10 +80,19 @@
         },
 
         // Customize slide number label, either using a format string..
-        slideNumberFormat: '%current% / %total%',
+        // slideNumberFormat: '%current% / %total%',
         // .. or by using a format function
-        // slideNumberFormat: function (current, total) {
-        //   return 'Slide ' + current + ' of ' + total;
+        slideNumberFormat: function (current, total) {
+          if (current!==1) {
+            return String(current) + " / " + String(total)
+          } else {
+            return ""
+          }
+        },
+        //   // if (current==1) {
+        //   //   return ""
+        //   // } else {
+        //   return '%current% / %total%';
         // },
 
         // Enable or disable counting of incremental slides in the slide counting
