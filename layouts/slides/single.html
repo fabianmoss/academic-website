@@ -14,6 +14,7 @@
      }
      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
    </style>
+   <link rel="stylesheet" type="text/css" href="own_styles.css">
  </head>
 <body>
 <textarea id="source">
@@ -21,7 +22,96 @@
 </textarea>
     <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
     <script>
-      var slideshow = remark.create({});
+      var slideshow = remark.create({
+        // Set the slideshow display ratio
+        // Default: '4:3'
+        // Alternatives: '16:9', ...
+        ratio: '16:9',
+
+        // Navigation options
+        navigation: {
+          // Enable or disable navigating using scroll
+          // Default: true
+          // Alternatives: false
+          scroll: true,
+
+          // Enable or disable navigation using touch
+          // Default: true
+          // Alternatives: false
+          touch: true,
+
+          // Enable or disable navigation using click
+          // Default: false
+          // Alternatives: true
+          click: false,
+        },
+
+        // Timer options
+        timer: {
+          // Start timer when first change occurs
+          // Default: true
+          // Alternatives: false
+          startOnChange: true,
+
+          // Is it possible to reset the timer
+          // Default: true
+          // Alternatives: false
+          resetable: true,
+
+          // Is the timer enabled
+          // Default: true
+          // Alternatives: false
+          enabled: true,
+
+          // A formatter for the elapsed time in milliseconds, defaults to H:mm:ss
+          formatter: function (elapsedTime) {
+            var left = elapsedTime;
+            var millis = left % 1000; left = Math.floor(left / 1000);
+            var seconds = left % 60; left = Math.floor(left / 60);
+            var minutes = left % 60; left = Math.floor(left / 60);
+            var hours = left;
+
+            return '' + hours + ':' + ([minutes, seconds]
+              .map(function (d) { return '' + d; })
+              .map(function (s) { return s.length < 2 ? '0' + s : s; })
+              .join(':'));
+          }
+        },
+
+        // Customize slide number label, either using a format string..
+        slideNumberFormat: '%current% / %total%',
+        // .. or by using a format function
+        // slideNumberFormat: function (current, total) {
+        //   return 'Slide ' + current + ' of ' + total;
+        // },
+
+        // Enable or disable counting of incremental slides in the slide counting
+        countIncrementalSlides: false,
+
+        // Provide a source markdown for slides explicitly as an option
+        // instead of the textarea with id="source"
+        // Default: undefined
+        // Alternatives: 'Slide 1\n---\nSlide 2', ...
+        // source: undefined,
+
+        // Read source markdown for slides from URL (local or external) instead
+        // of the textarea with id="source"
+        // Default: undefined
+        // Alternatives: 'some_file.md', 'https://example.host.com/file.md', ...
+        // sourceUrl: "slides.md",
+
+        // Value indicates if presenter notes should be visible or not.
+        // Default: true
+        // Alternatives: false
+        includePresenterNotes: true,
+        });
+
+        // Setup MathJax
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+            }
+      });
     </script>
 </body>
 </html>
