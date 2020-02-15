@@ -1,6 +1,5 @@
 
 class: center, middle
-
 # Computational Musicology and the Digital Humanities
 ## Problems, Practices, and Prospects
 
@@ -37,7 +36,6 @@ Center for Reflected Text Analytics, Universität Stuttgart
 ---
 
 class: center, middle
-
 # Problems
 
 ---
@@ -86,7 +84,6 @@ But compare to [RISM database](https://opac.rism.info):
 ---
 
 class: center, middle
-
 # Practices
 
 ---
@@ -116,7 +113,7 @@ class: center, middle
 .caption[Graphical Model for Latent Dirichlet Allocation .cite[(Blei et al., 2003)].]
 ]
 
-.reference[
+.ref[
 Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet Allocation. _Journal of Machine
 Learning Research_, 3, 993–1022. DOI: [10.1162/jmlr.2003.3.4-5.993](https://doi.org/10.1162/jmlr.2003.3.4-5.993)
 ]
@@ -187,7 +184,7 @@ Questions:
 - Distribution of chord features (V, C, Zipf)
 - What is the significance of chord features for chord prediction?
 
-.reference[Neuwirth, Harasim, Moss, & Rohrmeier (2018).
+.ref[Neuwirth, M., Harasim, D., Moss, F. C., & Rohrmeier, M. (2018).
 The Annotated Beethoven Corpus (ABC): A Dataset of Harmonic Analyses of All Beethoven String Quartets.
 *Frontiers in Digital Humanities, 5* (16).
 DOI: [10.3389/fdigh.2018.00016](https://doi.org/10.3389/fdigh.2018.00016)]
@@ -250,8 +247,8 @@ Variability seems to be related to chord features.
 
 ]
 
-.reference[
-Moss, Neuwirth, Harasim, & Rohrmeier (2019).
+.ref[
+Moss, F. C., Neuwirth, M., Harasim, D., & Rohrmeier, M. (2019).
 Statistical characteristics of tonal harmony: A corpus study of Beethoven's string quartets.
 _PLOS ONE 14_(6): e0217242. DOI: [10.1371/journal.pone.0217242](https://doi.org/10.1371/journal.pone.0217242)
 
@@ -262,7 +259,6 @@ Statistics, 7_(1), 1–26. DOI: [10.1214/aos/1176344552](https://doi.org/10.1214
 ---
 
 class: center, middle
-
 # Prospects
 
 ---
