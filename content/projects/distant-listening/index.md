@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Distant Listening"
-summary: ""
+summary: "The Digital Humanities are a vibrant field on the rise, witnessing a steady growth of research initiatives. One of the central potentials of computational approaches for Digital Musicology is the power to analyze amounts of musical sources that have been entirely unachievable for traditional methods. However, this also brings with it a core challenge in terms of bridging approaches from different disciplines, both on the level of theory and methodology. Hence, this proposal makes a step towards integrating music theory, musicology, and computational music modelling in an overarching project."
 authors: [admin]
 tags: [Digital Humanities, Corpus Research]
 categories: []
