@@ -41,7 +41,7 @@ projects: []
 - replace header with basic template from remark website
 - it works!
 ## Customization
-- add custom CSS file for columns, references, etc
+- add custom CSS file for columns, references, etc (has to be in slides' folder, haven't figured out yet how to add one to layouts)
 - add mathjax code from mathjax remark website
 - add sound
 - incremental slides don't work within columns (maybe if I improve CSS inheritance). proposed pragmatic solution
