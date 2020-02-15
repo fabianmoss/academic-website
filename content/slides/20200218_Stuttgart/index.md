@@ -1,5 +1,6 @@
 
-class: center, middle
+class: middle, center
+
 # Computational Musicology and the Digital Humanities
 ## Problems, Practices, and Prospects
 
@@ -90,13 +91,13 @@ class: center, middle
 
 ## 1 Inferring Latent Tonal Spaces
 
-.left-col33[
+.left-col50[
 .center[
 <img src="img/dim_reduct.png" width=100%>]]
 
 --
 
-.right-col66[
+.right-col50[
 - Focus on PCA (ICA?) but show also different methods
 - tonal pitch-class co-evolution
 ]
