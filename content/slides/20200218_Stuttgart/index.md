@@ -1,14 +1,10 @@
----
-title: stuttgart
-date: "2018-06-02T16:43:02-04:00"
----
-
-<!-- class: center, middle -->
+class: center, middle
 
 # Computational Musicology and the Digital Humanities
 ## Problems, Practices, and Prospects
 
 Fabian C. Moss ([@fabianmoss](https://twitter.com/fabianmoss))<br />
+Digital and Cognitive Musicology Lab<br />
 École Polytechnique Fédérale de Lausanne
 
 18 February, 2020
@@ -16,8 +12,8 @@ Fabian C. Moss ([@fabianmoss](https://twitter.com/fabianmoss))<br />
 CRETA-Werkstatt #9<br />
 Center for Reflected Text Analytics, Universität Stuttgart
 
-<img src="img/EPFL.png" width=150 align="middle" hspace="30">
-<img src="img/SNF.png" width=200 align="middle" hspace="30">
+<img src="img/EPFL.png" width=200 align="middle" hspace="30">
+<img src="img/SNF.png" width=300 align="middle" hspace="30">
 
 ---
 
@@ -39,19 +35,25 @@ Center for Reflected Text Analytics, Universität Stuttgart
 
 ---
 
+class: center, middle
+
+# Problems
+
+---
+
 ## Problems: The peculiar case of music
 
+Methodological problems:
 - what is musical text?
 - how does it differ from linguistic text?
 - seemingly 2-dimensional (pitch/time) but pitch-dimension actually multidimensional
 - the score can be understood as dimensionality reduction for performance
-- practical problems:
- - OMR relatively bad; small mistakes can make huge difference
- - scarcity of (text) corpora (as opposed to recordings)
 
-???
+--
 
-# These are my notes
+Practical problems:
+- OMR relatively bad; small mistakes can make huge difference
+- scarcity of (text) corpora (as opposed to recordings)
 
 ---
 
@@ -82,33 +84,84 @@ But compare to [RISM database](https://opac.rism.info):
 
 ---
 
-## Audio test
+class: center, middle
 
-<div align="center">
-<img src="img/chopin.jpg" width=200>
-<br />
-<audio controls>
-  <source src="audio/chopin.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-<br />
-</div>
-.center[[Link to full performance](https://www.youtube.com/watch?v=jJ130s7BiSM)]
+# Practices
 
 ---
 
-## Practices: inference of latent tonal spaces
+## 1 Inferring Latent Tonal Spaces
 
+.left-col33[
+.center[
+<img src="img/dim_reduct.png" width=100%>]]
+
+--
+
+.right-col66[
 - Focus on PCA (ICA?) but show also different methods
 - tonal pitch-class co-evolution
+]
+
+
 
 ---
 
-## Practices: topic modeling tonality
+## 2 Topic Modeling and Tonality
+--
+
+### Topic Modeling with Latent Dirichlet Allocation (LDA)
+.center[<img src="img/lda.png" width=75%><br />
+.caption[Graphical Model for Latent Dirichlet Allocation .cite[(Blei et al., 2003)].]
+]
+
+.reference[
+Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet Allocation. _Journal of Machine
+Learning Research_, 3, 993–1022. DOI: [10.1162/jmlr.2003.3.4-5.993](https://doi.org/10.1162/jmlr.2003.3.4-5.993)
+]
+
+---
+## 2 Topic Modeling and Tonality
+
+--
+
+.left-col50[
+Some topics reflect regions in tonal space.
+.center[<img src="img/topic_7-2.png" width=100%><br />
+.caption["Sharper" notes.]]
+.center[<img src="img/topic_7-3.png" width=100%><br />
+.caption["Flatter" notes.]]]
+
+--
+
+.right-col50[
+Others exhibit a more hierarchical structure.
+.center[<img src="img/topic_7-4.png" width=100%><br />
+.caption[Central notes emphasizing a C-major triad.]]
+.center[<img src="img/topic_7-5.png" width=100%><br />
+.caption[Central notes emphasizing a D-minor triad.]]]
+
+--
+
+Topic modeling identifies regions in tonal space (central, flat, sharp)
+and moreover points towards the importance of triads and tonal hierarchies.
 
 ---
 
-## Practices: modeling chords and creating corpora
+## 3 Annotating Corpora with Harmonic Labels
+
+.center[<img src="img/musescore_screenshot.png" width=66%><br />
+.caption[Annotation interface _MuseScore_ (v2.0) showing the beginning of Beethoven's op. 74/1.]]
+
+.center[
+<audio controls>
+  <source src="audio/beethoven_74_beginning.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>]
+
+---
+
+## 3 Annotating Corpora with Harmonic Labels
 
 - chord symbols, e.g. `I`, `i`, `V` with certain **features**
 - defined by a **regular expression**
@@ -140,24 +193,70 @@ DOI: [10.3389/fdigh.2018.00016](https://doi.org/10.3389/fdigh.2018.00016)]
 
 ---
 
-## Practices:
+## Chord Frequencies
 
-.center[<img src="img/ABC_zipf_mandelbrot.png" width=75%>]
+The frequency-rank distribution of chord symbols follows a power law.
+.center[
+  <img src="img/ABC_zipf_mandelbrot.png" width=75%><br />
+  .caption[Chord symbols in Beethoven's string quartets in the major (left) and the minor mode (right).]
+]
+
 
 ---
-## Practices:
 
-.center[<img src="img/ABC_progressions_major.png" width=45%>]
+## Chord Transitions
 
+.left-col50[
+  .center[<img src="img/ABC_progressions_major.png" width=90%>]
+]
+
+.right-col50[
+Chord transitions (bigrams) are asymmetric, e.g.
+$$p(\\mathsf{V7} \\rightarrow \\mathsf{I}) \\gg p(\\mathsf{I} \\rightarrow \\mathsf{V7})$$
+]
+
+--
+
+.right-col50[Conditional entropies (black bars) vary considerably]
+--
+
+.right-col50[- High entropies (uncertain continuation):
+.center[`I`, `i`, `V`, `IV`, `vi`, `ii`, ...]]
+--
+.right-col50[- Low entropies (more certain continuation):
+.center[`V2`, `V(64)`, `V65/IV`, ...]
+]
+
+--
+.right-col50[
+Variability seems to be related to chord features.
+]
 ---
 
 ## Practices: affect of features for chord prediction
 
-.center[<img src="img/ABC_feature_entropies.png" width=75%>]
+.left-col33[
+1. Select all chords with a certain feature.
+2. Calculate average normalized conditional entropy `\(\bar{H}_{avg}\)`.
+3. Draw large number of bootstrap samples .cite[(Efron, 1979)].
+4. The proportion of bootstrap samples more extreme than `\(\bar{H}_{avg}\)` determines statistical significance.
 
-.reference[Moss, Neuwirth, Harasim, & Rohrmeier (2019).
+]
+
+.right-col66[
+
+.center[<img src="img/ABC_feature_entropies.png" width=100%>]
+
+]
+
+.reference[
+Moss, Neuwirth, Harasim, & Rohrmeier (2019).
 Statistical characteristics of tonal harmony: A corpus study of Beethoven's string quartets.
-_PLOS ONE 14_(6): e0217242. DOI: [10.1371/journal.pone.0217242](https://doi.org/10.1371/journal.pone.0217242)]
+_PLOS ONE 14_(6): e0217242. DOI: [10.1371/journal.pone.0217242](https://doi.org/10.1371/journal.pone.0217242)
+
+Efron, B. (1979). Bootstrap methods: Another look at the Jackknife. _The Annals of
+Statistics, 7_(1), 1–26. DOI: [10.1214/aos/1176344552](https://doi.org/10.1214/aos/1176344552)
+]
 
 ---
 
@@ -167,12 +266,13 @@ class: center, middle
 
 ---
 
-## Prospects: the *Distant Listening* project
+## Prospects
+### *Distant Listening* - The Development of Harmony over Three Centuries (1700–2000)
 
 Setup:
-- SNF funded project
-- 1 PI, 2 PostDocs, 1 PhD
-- 3 years (2020-22)
+- SNSF funded project
+- 1 PI (Martin Rohrmeier), 2 PostDocs (Andrew McLeod, Fabian C. Moss), 1 PhD (Johannes Hentschel)
+- 4 years (2019-22)
 
 <img src="img/SNF.png" width=200>
 
@@ -185,15 +285,39 @@ Scope:
 
 class: center, middle
 
-# Acknowledgements
+# Many thanks to...
 
+.left-col50[<img src="img/dcml.jpg" width=500>]
 
-<img src="img/dcml.jpg" width=500>
-
-<img src="img/SNF.png" width=200>
-
-.left[
-- DCML
-- SNF
-- Claude Latour
+.right-col50[.left[
+- Nils Reiter for inviting me here]]
+--
+.right-col50[.left[
+- all my colleagues at the DCML]]
+--
+.right-col50[.left[
+- Claude Latour for supporting the EPFL Chair in Digital Musicology]]
+--
+.right-col50[.left[
+- SNSF for funding the _Distant Listening_ project
+.center[<img src="img/SNF.png" width=200>]]
 ]
+
+---
+
+class: center, middle
+
+# Computational Musicology and the Digital Humanities
+## Problems, Practices, and Prospects
+
+Fabian C. Moss ([@fabianmoss](https://twitter.com/fabianmoss))<br />
+Digital and Cognitive Musicology Lab<br />
+École Polytechnique Fédérale de Lausanne
+
+18 February, 2020
+
+CRETA-Werkstatt #9<br />
+Center for Reflected Text Analytics, Universität Stuttgart
+
+<img src="img/EPFL.png" width=200 align="middle" hspace="30">
+<img src="img/SNF.png" width=300 align="middle" hspace="30">
