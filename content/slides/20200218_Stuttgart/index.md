@@ -1,4 +1,6 @@
+
 class: center, middle
+
 # Computational Musicology and the Digital Humanities
 ## Problems, Practices, and Prospects
 
