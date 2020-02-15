@@ -288,18 +288,17 @@ class: center, middle
 .left-col50[<img src="img/dcml.jpg" width=500>]
 
 .right-col50[.left[
-- Nils Reiter for inviting me here]]
---
-.right-col50[.left[
-- all my colleagues at the DCML]]
---
-.right-col50[.left[
-- Claude Latour for supporting the EPFL Chair in Digital Musicology]]
---
-.right-col50[.left[
+- Nils Reiter for inviting me here
+
+- my colleagues at the DCML
+
+- Claude Latour for supporting the EPFL Chair in Digital Musicology
+
 - SNSF for funding the _Distant Listening_ project
-.center[<img src="img/SNF.png" width=200>]]
-]
+]]
+
+.center[<img src="img/SNF.png" width=200>]
+
 
 ---
 
