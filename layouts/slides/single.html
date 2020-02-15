@@ -14,14 +14,15 @@
      }
      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
    </style>
-   <link rel="stylesheet" type="text/css" href="my_styles.css">
+   <!-- <link rel="stylesheet" type="text/css" href="my_styles.css"> -->
  </head>
 <body>
   <textarea id="source">
     {{ .RawContent }}
   </textarea>
-  <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
-  <script>
+   <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script>
+  <script type="text/javascript">
     var slideshow = remark.create({
       // Set the slideshow display ratio
       // Default: '4:3'
@@ -107,13 +108,13 @@
       });
 
       // Setup MathJax
-      // MathJax.Hub.Config({
-      //     tex2jax: {
-      //     skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-      //     }
-    });
+      MathJax.Hub.Config({
+          tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+      });
 
-    // MathJax.Hub.Configured();
+      MathJax.Hub.Configured();
   </script>
 </body>
 </html>
