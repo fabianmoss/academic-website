@@ -17,27 +17,48 @@ Center for Reflected Text Analytics, Universität Stuttgart
 <img src="img/SNF.png" width=300 align="middle" hspace="30">
 
 ---
+## Research at the Digital and Cognitive Musicology Lab
+
+Digital
+- corpus creation
+- corpus analysis, e.g. specific composers & genres
+- computational modeling
+
+--
+
+Cognitive
+- musical syntax
+- perception of music
+- music and emotion
+
+--
+
+- Here: focus on the first aspect
+
+---
 
 ## Outline
 --
 
-1. Problems: the peculiar case of music
+### I. Problems
+- The peculiar case of music
 
 --
 
-2. Practices: results from thesis
- 1. inference of latent tonal spaces
- 2. topic models (focus on difficulty to interpret topics, here the tonal spaces help, they define the "semantics" of tpcs as interrelations/itnervals)
- 3. affect of features for chord prediction
+### II. Practices
+1. inference of latent tonal spaces
+2. topic models (focus on difficulty to interpret topics, here the tonal spaces help, they define the "semantics" of tpcs as interrelations/intervals)
+3. affect of features for chord prediction
 
 --
 
-3. Prospects: the *Distant Listening* project
+### III. Prospects
+- The *Distant Listening* project
 
 ---
 
 class: center, middle
-# Problems
+# I. Problems
 
 ---
 
@@ -85,7 +106,7 @@ But compare to [RISM database](https://opac.rism.info):
 ---
 
 class: center, middle
-# Practices
+# II. Practices
 
 ---
 
@@ -260,7 +281,7 @@ Statistics, 7_(1), 1–26. DOI: [10.1214/aos/1176344552](https://doi.org/10.1214
 ---
 
 class: center, middle
-# Prospects
+# III. Prospects
 
 ---
 
