@@ -38,22 +38,17 @@ Cognitive
 ---
 
 ## Outline
---
 
 ### I. Problems
-- The peculiar case of music
-
---
+<!-- - The peculiar case of music -->
 
 ### II. Practices
-1. infer latent tonal spaces
+<!-- 1. infer latent tonal spaces
 2. topic models (focus on difficulty to interpret topics, here the tonal spaces help, they define the "semantics" of tpcs as interrelations/intervals)
-3. affect of features for chord prediction
-
---
+3. affect of features for chord prediction -->
 
 ### III. Prospects
-- The *Distant Listening* project
+<!-- - The *Distant Listening* project -->
 
 ---
 
@@ -111,71 +106,73 @@ class: center, middle
 
 ---
 
-## 1 Inferring Latent Tonal Spaces
+## 1. Inferring Latent Tonal Spaces
+
+.left-col50[
+Note frequencies in the _Tonal Pitch-Class Counts Corpus_ .cite[(Moss, Neuwirth, & Rohrmeier, 2020)]
+.left[.ref[Moss, F. C., Neuwirth, M., & Rohrmeier, M. (2020).
+Tonal Pitch-Class Counts Corpus (TP3C) (Version v1.0.0) [Data set].
+_Zenodo_. http://doi.org/10.5281/zenodo.3600088]]
+
+- 2012 musical pieces
+- 75 composers
+- ca. 600 years
+
+.center[
+<img src="img/tpc_dist.png" width=75%>
+.caption[Note distribution of Alkan's _Concerto for Solo
+Piano_, op. 39, no. 8., mov. 1.]
+]
+
+]
+--
+
+.right-col50[
+Do the frequencies of notes in this dataset entail information about an underlying
+latent space?
+
+**Procedure**
+1. represent each piece as note distribution (normalized)
+2. pieces span a `\(V\)`-dimensional vector space
+3. perform dimensionality reduction (PCA)
+
+]
+
+---
+## 1. Inferring Latent Tonal Spaces
 
 .left-col50[
 .center[
-<img src="img/dim_reduct.png" width=100%>]]
+<img src="img/dim_reduct.png" width=80%>]
 
---
-
-.right-col50[
-- Focus on PCA (ICA?) but show also different methods
-- tonal pitch-class co-evolution
-]
-
----
-# II. Practices
-## 2. Topic Modeling and Tonality
-
----
-## 2. Topic Modeling and Tonality
---
-
-### Topic Modeling with Latent Dirichlet Allocation (LDA)
-.center[<img src="img/lda.png" width=75%><br />
-.caption[Graphical Model for Latent Dirichlet Allocation .cite[(Blei et al., 2003)].]
-]
+.center[
+<img src="img/lof.png" width=100%>
+.caption[The Line of Fifths .cite[(Temperley, 2000)].]]
 
 .ref[
-Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet Allocation. _Journal of Machine
-Learning Research_, 3, 993–1022. DOI: [10.1162/jmlr.2003.3.4-5.993](https://doi.org/10.1162/jmlr.2003.3.4-5.993)
+Temperley, D. (2000). The line of fifths. _Music Analysis, 19_(3), 289–319. doi:10.2307/854457
 ]
-
----
-## 2. Topic Modeling and Tonality
-
---
-
-.left-col50[
-Some topics reflect regions in tonal space.
-.center[<img src="img/topic_7-2.png" width=100%><br />
-.caption["Sharper" notes.]]
-.center[<img src="img/topic_7-3.png" width=100%><br />
-.caption["Flatter" notes.]]]
+]
 
 --
 
 .right-col50[
-Others exhibit a more hierarchical structure.
-.center[<img src="img/topic_7-4.png" width=100%><br />
-.caption[Central notes emphasizing a C-major triad.]]
-.center[<img src="img/topic_7-5.png" width=100%><br />
-.caption[Central notes emphasizing a D-minor triad.]]]
 
---
+First two principal components:
 
-Topic modeling identifies regions in tonal space (central, flat, sharp)
-and moreover points towards the importance of triads and tonal hierarchies.
+<img src="img/principal_components.png" width=100%>
+
+]
 
 ---
 
+class: center, middle
 # II. Practices
-## 3. Annotating Corpora with Harmonic Labels
+## 2. Annotating Corpora with Harmonic Labels
 
 ---
 
-## 3 Annotating Corpora with Harmonic Labels
+## 2. Annotating Corpora with Harmonic Labels
 
 .center[<img src="img/musescore_screenshot.png" width=66%><br />
 .caption[Annotation interface _MuseScore_ (v2.0) showing the beginning of Beethoven's op. 74/1.]]
@@ -186,12 +183,22 @@ and moreover points towards the importance of triads and tonal hierarchies.
   Your browser does not support the audio element.
 </audio>]
 
+???
+
+# Listen carefully and try to hear what changes in the music when there is a new label.
+
 ---
 
-## 3 Annotating Corpora with Harmonic Labels
+## 2. Annotating Corpora with Harmonic Labels
 
-- chord symbols, e.g. `I`, `i`, `V` with certain **features**
-- defined by a **regular expression**
+- chord symbols, e.g. `I`, `i`, `V` with certain features
+- defined by a regular expression .cite[(Neuwirth, et al., 2018)]
+
+.ref[Neuwirth, M., Harasim, D., Moss, F. C., & Rohrmeier, M. (2018).
+The Annotated Beethoven Corpus (ABC): A Dataset of Harmonic Analyses of All Beethoven String Quartets.
+*Frontiers in Digital Humanities, 5* (16).
+DOI: [10.3389/fdigh.2018.00016](https://doi.org/10.3389/fdigh.2018.00016)]
+--
 
 ```parser3
 REGEX = r"""^
@@ -207,20 +214,23 @@ REGEX = r"""^
         (?P<phraseend>\\\\)?$
         """x
 ```
+--
+
+Questions
+1. How are the chords distributed?
+2. What is the significance of chord features for chord prediction?
 
 --
-Questions:
-- Distribution of chord features (V, C, Zipf)
-- What is the significance of chord features for chord prediction?
 
-.ref[Neuwirth, M., Harasim, D., Moss, F. C., & Rohrmeier, M. (2018).
-The Annotated Beethoven Corpus (ABC): A Dataset of Harmonic Analyses of All Beethoven String Quartets.
-*Frontiers in Digital Humanities, 5* (16).
-DOI: [10.3389/fdigh.2018.00016](https://doi.org/10.3389/fdigh.2018.00016)]
+Corpus
+- 289 annotated pieces
+- nine 19th-century composers
+- over 75,000 labels
+
 
 ---
 
-## Chord Frequencies
+## 1. Chord Frequencies
 
 The frequency-rank distribution of chord symbols follows a power law.
 .center[
@@ -231,11 +241,13 @@ The frequency-rank distribution of chord symbols follows a power law.
 
 ---
 
-## Chord Transitions
+## 2. Chord Transitions
 
 .left-col50[
   .center[<img src="img/ABC_progressions_major.png" width=90%>]
 ]
+
+--
 
 .right-col50[
 Chord transitions (bigrams) are asymmetric, e.g.
@@ -270,12 +282,6 @@ Variability seems to be related to chord features.
 
 ]
 
-.right-col66[
-
-.center[<img src="img/ABC_feature_entropies.png" width=100%>]
-
-]
-
 .ref[
 Moss, F. C., Neuwirth, M., Harasim, D., & Rohrmeier, M. (2019).
 Statistical characteristics of tonal harmony: A corpus study of Beethoven's string quartets.
@@ -284,6 +290,17 @@ _PLOS ONE 14_(6): e0217242. DOI: [10.1371/journal.pone.0217242](https://doi.org/
 Efron, B. (1979). Bootstrap methods: Another look at the Jackknife. _The Annals of
 Statistics, 7_(1), 1–26. DOI: [10.1214/aos/1176344552](https://doi.org/10.1214/aos/1176344552)
 ]
+
+--
+
+.right-col66[
+
+.center[<img src="img/ABC_feature_entropies.png" width=85%>]
+
+.center[<img src="img/medtner_feature_entropies.png" width=85%>]
+
+]
+
 
 ---
 
@@ -295,16 +312,15 @@ class: center, middle
 ## Prospects
 ### *Distant Listening* - The Development of Harmony over Three Centuries (1700–2000)
 
-Setup:
 - SNSF funded project
 - 1 PI (Martin Rohrmeier), 2 PostDocs (Andrew McLeod, Fabian C. Moss), 1 PhD (Johannes Hentschel)
 - 4 years (2019-22)
 
 <img src="img/SNF.png" width=200>
 
-Scope:
-1. Data: corpus creation/expansion (-> get RISM data?)
-2. Computational modeling: harmonic inference (use annotated corpora as ground truth)
+**Scope**
+1. Data: corpus creation/expansion/annotation
+2. Computational modeling: harmonic inference (using the annotated corpora as ground truth)
 3. Theoretical advancement: music theory (re-evaluate musical theories of tonality, digital critique)
 
 ---
@@ -346,3 +362,48 @@ Center for Reflected Text Analytics, Universität Stuttgart
 
 <img src="img/EPFL.png" width=200 align="middle" hspace="30">
 <img src="img/SNF.png" width=300 align="middle" hspace="30">
+
+---
+class: center, middle
+# II. Practices
+## 3. Topic Modeling and Tonality
+
+---
+## 3. Topic Modeling and Tonality
+--
+
+Topic Modeling with Latent Dirichlet Allocation (LDA)
+.center[<img src="img/lda.png" width=75%><br />
+.caption[Graphical Model for Latent Dirichlet Allocation .cite[(Blei et al., 2003)].]
+]
+
+.ref[
+Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet Allocation. _Journal of Machine
+Learning Research_, 3, 993–1022. DOI: [10.1162/jmlr.2003.3.4-5.993](https://doi.org/10.1162/jmlr.2003.3.4-5.993)
+]
+
+---
+## 3. Topic Modeling and Tonality
+
+--
+
+.left-col50[
+Some topics reflect regions in tonal space.
+.center[<img src="img/topic_7-2.png" width=100%><br />
+.caption["Sharper" notes.]]
+.center[<img src="img/topic_7-3.png" width=100%><br />
+.caption["Flatter" notes.]]]
+
+--
+
+.right-col50[
+Others exhibit a more hierarchical structure.
+.center[<img src="img/topic_7-4.png" width=100%><br />
+.caption[Central notes emphasizing a C-major triad.]]
+.center[<img src="img/topic_7-5.png" width=100%><br />
+.caption[Central notes emphasizing a D-minor triad.]]]
+
+--
+
+Topic modeling identifies regions in tonal space (central, flat, sharp)
+and moreover points towards the importance of triads and tonal hierarchies.
