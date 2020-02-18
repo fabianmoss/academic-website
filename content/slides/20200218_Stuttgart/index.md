@@ -16,7 +16,7 @@ Center for Reflected Text Analytics, Universität Stuttgart
 <img src="img/EPFL.png" width=200 align="middle" hspace="30">
 <img src="img/SNF.png" width=300 align="middle" hspace="30">
 
----
+???
 ## Research at the Digital and Cognitive Musicology Lab
 
 Digital
@@ -24,14 +24,10 @@ Digital
 - corpus analysis, e.g. specific composers & genres
 - computational modeling
 
---
-
 Cognitive
 - musical syntax
 - perception of music
 - music and emotion
-
---
 
 - Here: focus on the first aspect
 
@@ -59,44 +55,29 @@ class: center, middle
 
 ## Problems: The peculiar case of music
 
-Methodological problems:
-- what is musical text?
-- how does it differ from linguistic text?
-- seemingly 2-dimensional (pitch/time) but pitch-dimension actually multidimensional
-- the score can be understood as dimensionality reduction for performance
-
+**Practical problems**
+- inferring musical structures/textual representations reliably from audio is very difficult
 --
 
-Practical problems:
 - OMR relatively bad; small mistakes can make huge difference
-- scarcity of (text) corpora (as opposed to recordings)
-
----
-
-## Problems: Corpora, Representativity
-
-.alert[(No real need to present the corpora to this audience.)]
-
-Harmonic Annotations:
-- published:
- - Annotated Beethoven Corpus ([ABC](http://github.com/DCMLab/ABC))
- - Mozart Sonatas (submitted)
-- in preparation:
-  - X composers
-  - Y pieces
-  - Z1-Z2 years
-
-Notes:
-- Tonal Pitch-Class Counts Corpus ([TP3C](https://github.com/DCMLab/TP3C))
-
-But compare to [RISM database](https://opac.rism.info):
-- 1,198,605 musical sources (as of 12 Feb)
 --
 
-- ca. 36,000 composers
+- scarcity of (text) corpora (as opposed to audio recordings)
+
 --
 
-- mostly between 1650 and 1850 (printed music)
+Empirical basis for Digital Musicology usually _much_ smaller than for computational linguistics
+or literary studies (sources like Wikipedia or the web as a whole don't exist)
+
+--
+
+**Methodological problems**
+- What is musical text? How does it differ from linguistic text?
+--
+
+- Seemingly 2-dimensional (pitch/time) but pitch-dimension actually multidimensional
+<!-- - the score can be understood as dimensionality reduction for performance -->
+
 
 ---
 
@@ -118,10 +99,11 @@ _Zenodo_. http://doi.org/10.5281/zenodo.3600088]]
 - 75 composers
 - ca. 600 years
 
+**An example piece**
 .center[
-<img src="img/tpc_dist.png" width=75%>
-.caption[Note distribution of Alkan's _Concerto for Solo
-Piano_, op. 39, no. 8., mov. 1.]
+<img src="img/alkan_dist.png" width=90%>
+.caption[Note distribution of Alkan, _Concerto for Solo
+Piano_, op. 39/8., mov. 1.]
 ]
 
 ]
@@ -162,6 +144,18 @@ First two principal components:
 
 <img src="img/principal_components.png" width=100%>
 
+]
+
+---
+## 1. Inferring Latent Tonal Spaces
+
+Rearranging the notes of the example piece on the line of fifths reveals a much more
+systematic usage.
+
+.center[
+<img src="img/tpc_dist.png" width=75%>
+.caption[Note distribution of Alkan, _Concerto for Solo
+Piano_, op. 39/8., mov. 1.]
 ]
 
 ---
@@ -229,8 +223,8 @@ Corpus
 
 
 ---
-
-## 1. Chord Frequencies
+## 2. Annotating Corpora with Harmonic Labels
+### Chord Frequencies
 
 The frequency-rank distribution of chord symbols follows a power law.
 .center[
@@ -240,8 +234,8 @@ The frequency-rank distribution of chord symbols follows a power law.
 
 
 ---
-
-## 2. Chord Transitions
+## 2. Annotating Corpora with Harmonic Labels
+### Chord Transitions
 
 .left-col50[
   .center[<img src="img/ABC_progressions_major.png" width=90%>]
@@ -323,6 +317,15 @@ class: center, middle
 2. Computational modeling: harmonic inference (using the annotated corpora as ground truth)
 3. Theoretical advancement: music theory (re-evaluate musical theories of tonality, digital critique)
 
+More information: [http://dcml.epfl.ch/projects/distant-listening](http://dcml.epfl.ch/projects/distant-listening)
+
+???
+
+But compare to [RISM database](https://opac.rism.info):
+- 1,198,605 musical sources (as of 12 Feb)
+- ca. 36,000 composers
+- mostly between 1650 and 1850 (printed music)
+
 ---
 
 class: center, middle
@@ -342,6 +345,12 @@ class: center, middle
 ]]
 
 .center[<img src="img/SNF.png" width=200>]
+
+.left[
+.right-col50[
+These slides can be found at <br /> [http://fabian-moss.de/talk/](http://fabian-moss.de/talk/)
+]
+]
 
 
 ---
