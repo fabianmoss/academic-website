@@ -46,7 +46,7 @@ Cognitive
 --
 
 ### II. Practices
-1. inference of latent tonal spaces
+1. infer latent tonal spaces
 2. topic models (focus on difficulty to interpret topics, here the tonal spaces help, they define the "semantics" of tpcs as interrelations/intervals)
 3. affect of features for chord prediction
 
@@ -107,6 +107,7 @@ But compare to [RISM database](https://opac.rism.info):
 
 class: center, middle
 # II. Practices
+## 1. Inferring Latent Tonal Spaces
 
 ---
 
@@ -123,11 +124,12 @@ class: center, middle
 - tonal pitch-class co-evolution
 ]
 
-
+---
+# II. Practices
+## 2. Topic Modeling and Tonality
 
 ---
-
-## 2 Topic Modeling and Tonality
+## 2. Topic Modeling and Tonality
 --
 
 ### Topic Modeling with Latent Dirichlet Allocation (LDA)
@@ -141,7 +143,7 @@ Learning Research_, 3, 993–1022. DOI: [10.1162/jmlr.2003.3.4-5.993](https://do
 ]
 
 ---
-## 2 Topic Modeling and Tonality
+## 2. Topic Modeling and Tonality
 
 --
 
@@ -165,6 +167,11 @@ Others exhibit a more hierarchical structure.
 
 Topic modeling identifies regions in tonal space (central, flat, sharp)
 and moreover points towards the importance of triads and tonal hierarchies.
+
+---
+
+# II. Practices
+## 3. Annotating Corpora with Harmonic Labels
 
 ---
 
