@@ -53,7 +53,7 @@ class: center, middle
 
 ---
 
-## Problems: The peculiar case of music
+## I Problems: The peculiar case of music
 
 **Practical problems**
 - inferring musical structures/textual representations reliably from audio is very difficult
@@ -77,6 +77,12 @@ or literary studies (sources like Wikipedia or the web as a whole don't exist)
 
 - Seemingly 2-dimensional (pitch/time) but pitch-dimension actually multidimensional
 <!-- - the score can be understood as dimensionality reduction for performance -->
+
+---
+## I. Problems: The peculiar case of music
+.center[
+<img src="img/spem.png" width=38%><br />
+.caption[Thomas Tallis, _Spem in Alium_, 1570.]]
 
 
 ---
