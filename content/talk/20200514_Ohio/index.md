@@ -10,17 +10,17 @@ address:
   city: Columbus
   region: OH
   postcode:
-  country:
+  country: USA
 summary:
-abstract: "
-An increasing number of corpus studies relies on pitch-class distributions in order to infer characteristics of musical pieces under a historical perspective (Albrecht & Huron, 2014; Albrecht & Shanahan, 2013; Harasim, Moss, Ramirez, & Rohrmeier, submitted; Quinn & White, 2017; Weiß, Mauch, & Dixon, 2018; Yust, 2019). This contribution shows that the line of fifths (LOF; Temperley, 2000) is the fundamental underlying tonal space in a large historical corpus (ca. 1360-1940) of Western classical pieces in MusicXML format. Modeling the pieces’ pitch-class distributions as vectors in a high-dimensional simplicial space and visualizing them via Principal Component Analysis reveals that the distance to the center of the LOF as well as the distinction between the natural (F, C, G, D, A, E, B) and the altered tonal pitch-classes (e.g., Abb, Db, F#, C##) are the most important factors for the dispersion of the data. These findings are robust with respect to different dimensionality reduction methods. Moreover, we introduce the concept of pitch-class coevolution and demonstrate that the LOF also underlies striking changes in the usage of pitch-classes between different historical periods. Any empirical study is based on certain implicit or explicit modeling assumptions, some of which are given by the encoding of a corpus, e.g. whether enharmonic equivalence is assumed (e.g. MIDI-encoding) or not (e.g. MusicXML encoding). Relying on pitch-class distributions without assuming enharmonic equivalence, our findings emphasize the structural importance of the LOF for the organization of the pitch-class content of tonal music across a large historical timespan.
-"
+abstract: |
+  An increasing number of corpus studies relies on pitch-class distributions in order to infer characteristics of musical pieces under a historical perspective (Albrecht & Huron, 2014; Albrecht & Shanahan, 2013; Harasim, Moss, Ramirez, & Rohrmeier, submitted; Quinn & White, 2017; Weiß, Mauch, & Dixon, 2018; Yust, 2019). This contribution shows that the line of fifths (LOF; Temperley, 2000) is the fundamental underlying tonal space in a large historical corpus (ca. 1360-1940) of Western classical pieces in MusicXML format. Modeling the pieces’ pitch-class distributions as vectors in a high-dimensional simplicial space and visualizing them via Principal Component Analysis reveals that the distance to the center of the LOF as well as the distinction between the natural (F, C, G, D, A, E, B) and the altered tonal pitch-classes (e.g., Abb, Db, F#, C##) are the most important factors for the dispersion of the data. These findings are robust with respect to different dimensionality reduction methods. Moreover, we introduce the concept of pitch-class coevolution and demonstrate that the LOF also underlies striking changes in the usage of pitch-classes between different historical periods. Any empirical study is based on certain implicit or explicit modeling assumptions, some of which are given by the encoding of a corpus, e.g. whether enharmonic equivalence is assumed (e.g. MIDI-encoding) or not (e.g. MusicXML encoding). Relying on pitch-class distributions without assuming enharmonic equivalence, our findings emphasize the structural importance of the LOF for the organization of the pitch-class content of tonal music across a large historical timespan.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-05-10 #T08:33:36+01:00
-date_end: 2020-05-14 #T08:33:36+01:00
-all_day: false
+date_end: 2020-05-14T08:33:36+01:00
+# all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-07T08:33:36+01:00
