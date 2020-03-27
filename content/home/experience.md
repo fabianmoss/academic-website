@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Lausanne, Switzerland"
   date_start = "2020-02-15"
   date_end = ""
-  description = ""
+  description = "Project: [Distant Listening - The Development of Harmony over Three Centuries (1700–2000)](https://www.epfl.ch/labs/dcml/projects/distant-listening/)"
 
 [[experience]]
   title = "Doctoral Assistant"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Lausanne, Switzerland"
   date_start = "2017-09-01"
   date_end = "2020-02-14"
-  description = ""
+  description = "Dissertation: [Transitions of Tonality - A Model-Based Corpus Study](https://infoscience.epfl.ch/record/273178)"
 
 [[experience]]
   title = "Research Assistant"
