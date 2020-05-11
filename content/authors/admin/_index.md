@@ -50,20 +50,26 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:fabian.moss@epfl.ch" # '#contact'  # For a direct email link, use "mailto:test@example.org".
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/moss_cv.pdf` and uncomment the lines below.  
+- icon: cv-square
+  icon_pack: ai
+  link: files/moss_cv.pdf
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fabianmoss
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=N9vaXGUAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/fabianmoss
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/moss_cv.pdf` and uncomment the lines below.  
-- icon: cv
+- icon: google-scholar
   icon_pack: ai
-  link: files/moss_cv.pdf
+  link: https://scholar.google.com/citations?user=N9vaXGUAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9377-2066
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3187365/fabian-c-moss/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "fabianmoss@gmail.com"
