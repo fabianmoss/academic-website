@@ -18,12 +18,12 @@ abstract: >
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-09-16T19:23:56+01:00
-date_end: 2020-09-19T19:23:56+01:00
+date: 2021-09-28T19:23:56+01:00
+date_end: 2021-10-01T19:23:56+01:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-09-15T19:23:56+01:00
+publishDate: 2020-05-13T19:13:56+01:00
 
 authors: [admin, Markus Neuwirth, Martin Rohrmeier]
 tags: [Corpus Studies, Beethoven, String Quartets]
