@@ -26,7 +26,7 @@ date: 2020-09-14T15:16:23+01:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-07-07T15:16:23+01:00
+publishDate: 2020-06-07T15:16:23+01:00
 
 authors: [admin]
 tags: [Digital Humanities, Music History]
