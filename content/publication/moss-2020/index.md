@@ -3,11 +3,11 @@
 
 title: "Harmony and Form in Brazilian Choro: A Corpus-Driven Approach to Musical Style Analysis"
 authors: [admin, "Willian Fernandes de Souza", "Martin Rohrmeier"]
-date: 2020-01-01
+date: 2020-08-04
 doi: "10.1080/09298215.2020.1797109"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-08-02T15:46:12.100997Z
+publishDate: 2020-08-04T08:00:00.100997Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
