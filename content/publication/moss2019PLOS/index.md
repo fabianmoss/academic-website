@@ -19,7 +19,8 @@ publication_types: ["2"]
 publication: "*PLOS ONE, 14*(6)"
 publication_short: ""
 
-abstract: "Tonal harmony is one of the central organization systems of Western music. This article characterizes the statistical foundations of tonal harmony based on the computational analysis of expert annotations in a large corpus. Using resampling methods, this study shows that 1) the rank-frequency distribution of chords resembles a power law, i.e. few chords govern a large proportion of the data; 2) chord transitions are referential and chord predictability is significantly affected by distinguished chord features; 3) tonal harmony conveys directedness in time; and 4) tonal harmony operates differently at the hierarchical levels of chords and keys. These results serve to characterize tonal harmony on empirical grounds and advance the methodological state-of-the-art in digital musicology."
+abstract: >
+  Tonal harmony is one of the central organization systems of Western music. This article characterizes the statistical foundations of tonal harmony based on the computational analysis of expert annotations in a large corpus. Using resampling methods, this study shows that 1) the rank-frequency distribution of chords resembles a power law, i.e. few chords govern a large proportion of the data; 2) chord transitions are referential and chord predictability is significantly affected by distinguished chord features; 3) tonal harmony conveys directedness in time; and 4) tonal harmony operates differently at the hierarchical levels of chords and keys. These results serve to characterize tonal harmony on empirical grounds and advance the methodological state-of-the-art in digital musicology.
 
 # Summary. An optional shortened abstract.
 summary: ""

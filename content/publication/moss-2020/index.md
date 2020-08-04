@@ -21,12 +21,12 @@ publication: "*Journal of New Music Research*"
 publication_short: ""
 
 abstract: >
-    This corpus study constitutes the first quantitative style analysis of
-    Choro, a primarily instrumental music genre that emerged in Brazil in the second half of the 19th century. 
-    We evaluate its description in the recent and comprehensive theoretical work *A estrutura do Choro* (Almada, 2006) by analyzing a set of representative pieces from the *Choro Songbook* (Chediak, 2009, 2011a,b), a central reference for this genre. We digitized this resource by transcribing the chord symbols and formal structure of all 295 pieces, and publish it as the freely available *Choro Songbook Corpus*.
+  This corpus study constitutes the first quantitative style analysis of
+  Choro, a primarily instrumental music genre that emerged in Brazil in the second half of the 19th century. 
+  We evaluate its description in the recent and comprehensive theoretical work *A estrutura do Choro* (Almada, 2006) by analyzing a set of representative pieces from the *Choro Songbook* (Chediak, 2009, 2011a,b), a central reference for this genre. We digitized this resource by transcribing the chord symbols and formal structure of all 295 pieces, and publish it as the freely available *Choro Songbook Corpus*.
 
-    Our approach uncovers central stylistic traits of this musical idiom on empirical grounds.
-    It thus advances data-driven musical style analysis by studying both harmony and form in a musical genre that lies outside the traditional canon. 
+  Our approach uncovers central stylistic traits of this musical idiom on empirical grounds.
+  It thus advances data-driven musical style analysis by studying both harmony and form in a musical genre that lies outside the traditional canon. 
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -57,7 +57,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).
