@@ -9,7 +9,7 @@ Digital and Cognitive Musicology Lab<br />
 
 14 September 2020, 2-3:30 PM
 
-SysMus 20
+International Conference of Students of Systematic Musicology (SysMus)
 
 <img src="img/EPFL.png" width=200 align="middle" hspace="30">
 <img src="img/SNF.png" width=300 align="middle" hspace="30">
@@ -31,18 +31,69 @@ Cognitive
 
 ---
 
+class: middle
+
+**Abstract**
+
+Traditionally, musicology has been divided into historical and systematic research agendas, encompassing qualitative-hermeneutic and quantitative-empirical methodologies, respectively. Innovations in the emerging and rapidly growing field of musical corpus studies question this fundamental divide and address, for instance, inherently historical questions with quantitative methods, fueled by the creation of ever larger and more appropriate datasets. 
+
+This workshop first introduces some methodological and epistemological issues regarding empirical approaches to music history. It then presents a hands-on exercise on a case study. Finally, it invites critical discussion about the implications and relevance of the results for other subfields such as music psychology. In doing so, the workshop simulates (nearly) the entire life cycle of a research project, from an initial idea via selecting appropriate operationalisations and measures up to choosing suitable visualisations to communicate the results, e.g. in a research article or a blog post. At each point, participants will be invited to critically reflect the decisions taken. Along the way, more general methods for data analysis (e.g. data transformation, clustering, dimensionality reduction, and plotting) will be introduced. This is expected to benefit participants in a vast number of future projects. 
+
+We will use Python as a programming language within the framework of an interactive coding environment. The participants are not expected to have any prior experience with either, and do not need to install any software on their laptops. A web browser and a stable internet connection are the only prerequisites.
+
+---
+
+class: middle
+
 ## Outline
 
-### I. Problems
-<!-- - The peculiar case of music -->
+1. Who are we? 
+  - Who am I?
+  - Who are you?
+2. Data-Driven Music History: Methodological Considerations
+  - Intro/Background: Historical Musical Corpus Research
+  - Sampling
+  - Representativity
+  - Questions! (Hypotheses)
+3. Case Study: Historical Changes of Tonality
+  1. Distributions of Tonal Pitch Classes, probability distributions, entropy
+  2. Hypothesis: similar pieces have similar distributions, operationalization: distances in vector space
+  3. Assumption (for coloring): tonal center is approximated by most frequent note
+  4. Taking **tonal** spaces into account: the line of fifths (dimensionality reduction, clustering, t-SNE, PCA)
+  5. historical expansion on line of fifths, LOWESS
 
-### II. Practices
-<!-- 1. infer latent tonal spaces
-2. topic models (focus on difficulty to interpret topics, here the tonal spaces help, they define the "semantics" of tpcs as interrelations/intervals)
-3. affect of features for chord prediction -->
+---
 
-### III. Prospects
-<!-- - The *Distant Listening* project -->
+class: center, middle
+
+# Many thanks to...
+
+.left-col50[<img src="img/dcml.jpg" width=500>]
+
+.right-col50[.left[
+- Diana Kayser for organizing SysMus this year
+
+- my colleagues at the DCML
+
+- Claude Latour for supporting the EPFL Chair in Digital Musicology
+
+- SNSF for funding the _Distant Listening_ project
+]]
+
+.center[<img src="img/SNF.png" width=200>]
+
+.left[
+.right-col50[
+These slides can be found at <br /> [http://fabian-moss.de/talk/](http://fabian-moss.de/talk/)
+]
+]
+
+
+---
+
+## Discussion
+
+and Feedback: email/twitter/forms?
 
 ---
 

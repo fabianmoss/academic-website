@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Workshop: Digital Humanities - A Case Study in Music History"
+title: "Workshop: Data-Driven Music History"
 event: International Conference of Students of Systematic Musicology (SysMus)
 event_url: https://sites.google.com/york.ac.uk/sysmus2020/
 location: University of York
@@ -51,7 +51,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: 
 
 url_code:
 url_pdf:
@@ -62,7 +62,7 @@ url_video:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "20200914_York"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
