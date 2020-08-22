@@ -37,11 +37,13 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
+links:
 # - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+- name: Media
+  url: https://actu.epfl.ch/news/bringing-computational-music-analysis-beyond-the-t/
 
 url_pdf: 
 url_code:
