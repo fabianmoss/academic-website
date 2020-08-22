@@ -33,11 +33,53 @@ Cognitive
 
 class: middle
 
-**Abstract**
+## Background
+
+- traditionally: fundamental division historical / systematic music research .cite[Honing, 2006; Cook, 2006]
+- differences in methods and questions
+- new developments might bridge this gap .cite[Pugin, 2005; Huron, 2013]
+- digital humanities: quantitative approaches to humanist research agendas
+- machine-readable datasets
+
+???
 
 Traditionally, musicology has been divided into historical and systematic research agendas, encompassing qualitative-hermeneutic and quantitative-empirical methodologies, respectively. Innovations in the emerging and rapidly growing field of musical corpus studies question this fundamental divide and address, for instance, inherently historical questions with quantitative methods, fueled by the creation of ever larger and more appropriate datasets. 
 
+---
+
+## This workshop
+
+### Outline
+
+1. methodological/epistemological introduction
+2. hands-on case study
+  - you can follow this presentation and observe **and/or** go along with the exercises in ***this notebook***
+3. critical discussion
+
+--
+
+### Outcomes (hopefully)
+
+- reflections about the scientific study of music, useful/lessness of disciplinarysubdivisions
+- simulation of a research cycle from initial idea to final result
+- introduction (in passing) of concrete quantitative methods
+
+???
+
 This workshop first introduces some methodological and epistemological issues regarding empirical approaches to music history. It then presents a hands-on exercise on a case study. Finally, it invites critical discussion about the implications and relevance of the results for other subfields such as music psychology. In doing so, the workshop simulates (nearly) the entire life cycle of a research project, from an initial idea via selecting appropriate operationalisations and measures up to choosing suitable visualisations to communicate the results, e.g. in a research article or a blog post. At each point, participants will be invited to critically reflect the decisions taken. Along the way, more general methods for data analysis (e.g. data transformation, clustering, dimensionality reduction, and plotting) will be introduced. This is expected to benefit participants in a vast number of future projects. 
+
+---
+
+class: middle
+
+## Technical aspects
+
+- Python 3
+- Jupyter notebooks
+- no prior knowledge required
+- let's hope the connection holds! (if not see the **slides**)
+
+???
 
 We will use Python as a programming language within the framework of an interactive coding environment. The participants are not expected to have any prior experience with either, and do not need to install any software on their laptops. A web browser and a stable internet connection are the only prerequisites.
 
@@ -61,6 +103,20 @@ class: middle
   3. Assumption (for coloring): tonal center is approximated by most frequent note
   4. Taking **tonal** spaces into account: the line of fifths (dimensionality reduction, clustering, t-SNE, PCA)
   5. historical expansion on line of fifths, LOWESS
+
+---
+
+class: center, middle
+
+## Methodological Considerations
+
+---
+
+class: center
+
+<img src="img/meyer_hierarchy.jpg" width="75%">
+
+.ref[Jan (2007). *Memetics and Music*. <br /> Meyer, L.B. (1989). *Music and Style*.]
 
 ---
 
