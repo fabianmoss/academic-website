@@ -21,7 +21,7 @@ date_end: 2020-07-05T09:25:03+01:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-06-10T09:25:03+01:00
+publishDate: 2025-06-10T09:25:03+01:00
 
 authors: [Markus Neuwirth, admin, Martin Rohrmeier]
 tags: []

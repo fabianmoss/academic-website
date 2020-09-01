@@ -26,7 +26,7 @@ date_end: 2020-10-04 #T18:17:10+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-09-01T18:17:10+02:00
+publishDate: 2020-09-01T12:00:10+02:00
 
 authors: [admin]
 tags: []

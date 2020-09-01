@@ -23,7 +23,7 @@ date_end: 2020-05-14T08:33:36+01:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-03-07T08:33:36+01:00
+publishDate: 2025-03-07T08:33:36+01:00
 
 authors: [admin]
 tags: []
