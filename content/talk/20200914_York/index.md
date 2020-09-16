@@ -52,7 +52,7 @@ image:
 
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: data-driven_music_history.slides.html
+url_slides: data-driven_music_history #.slides.html
 # url_code:
 # url_pdf:
 # url_video:
