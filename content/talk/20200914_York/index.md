@@ -52,7 +52,7 @@ image:
 
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://fabian-moss.de/files/sysmus20/.slides.html
+url_slides: https://fabian-moss.de/files/sysmus20/slides.html
 # url_code:
 # url_pdf:
 # url_video:
