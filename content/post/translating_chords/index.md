@@ -35,35 +35,23 @@ using insights from music theory about the structure of tonal space.
 This is the code I wrote for the Choro project (in `custom_functions.py`):
 
 ```python
+import numpy as np
+
 def PC_to_RN(chord, key):
+
+    diatonic = list(FCGDAEB)
+    no_flats = 2
+    no_sharps = 2
+    accidentals = [ "b" * abs(x) if x < 0 else "" if x == 0 else "#" * abs(x) for x in np.arange(no_flats, no_sharps + 1) ]
+    tpcs = [ d + a for a in accidentals for d in diatonic ]
+    lof_nos = np.arange(-7 * no_flats, 7 * (no_sharps + 1) )
 
     ### DICTIONARIES
 
     # line of fifts
     # F=0 because then numbers mod 7 represent the diatonic scale
 
-    lof = {
-        'Fb':-7,
-        'Cb':-6,
-        'Gb': -5,
-        'Db': -4,
-        'Ab': -3,
-        'Eb': -2,
-        'Bb': -1,
-        'F' : 0,
-        'C' : 1,
-        'G' : 2,
-        'D' : 3,
-        'A' : 4,
-        'E' : 5,
-        'B' : 6,
-        'F#': 7,
-        'C#': 8,
-        'G#': 9,
-        'D#': 10,
-        'A#':11,
-        'E#':12
-    }
+    lof = { t:l for t, l in zip(tpcs, lof_nos) }
 
     # roman numerals
     roman_numerals = {
