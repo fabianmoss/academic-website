@@ -29,7 +29,7 @@ all_day: true
 publishDate: 2020-09-01T12:00:10+02:00
 
 authors: [admin]
-tags: []
+tags: [visualization]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -53,7 +53,7 @@ links:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://fabian-moss.de/files/gmth2020/presentation.slides.html
 
 url_code:
 url_pdf:
