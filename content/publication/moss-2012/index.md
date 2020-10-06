@@ -7,6 +7,6 @@ publication_types: ["7"]
 abstract: ""
 featured: false
 publication: ""
-tags: ["Albert Simon", "MUSIC THEORY", "Music Theory", "Neo-Riemannian Theory", "Theory of Tonal Fields", "Tonality"]
+tags: ["Albert Simon", "Music Theory", "Neo-Riemannian Theory", "Theory of Tonal Fields", "Tonality"]
 ---
 
