@@ -83,4 +83,4 @@ social:
 
 I am a postdoctoral researcher in the [_Digital and Cognitive Musicology Lab_ (DCML)](https://dcml.epfl.ch) at [École Polytechnique Fédérale de Lausanne](https://epfl.ch) (Switzerland). Working with large symbolic datasets of musical scores and harmonic annotations, I am primarily interested in Computational Music Analysis, Music Theory, Music Cognition, and their mutual relationship with a focus on chromatic harmony and extended tonality. 
 
-Currently, I am working on the [Distant Listening](https://dcml.epfl.ch/projects/distant-listening) project that aims at providing a large-scale corpus-based account of the historical development of harmony in Western tonal music.
+Currently, I am working for the project [Distant Listening: The Development of Harmony over Three Centuries (1700–2000)](https://dcml.epfl.ch/projects/distant-listening), funded by the [Swiss National Science Foundation](http://www.snf.ch), that aims at providing a large-scale corpus-based account of the historical development of harmony in Western tonal music.
