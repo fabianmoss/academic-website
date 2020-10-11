@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 # , 14*(6)
-publication: "*Journal of New Music Research*" 
+publication: "*Journal of New Music Research 49*(5)" 
 publication_short: ""
 
 abstract: >
