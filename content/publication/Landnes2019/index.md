@@ -19,7 +19,15 @@ publication_types: ["1"]
 publication: "*Proceedings of the 16th Sound & Music Computing Conference (SMC 2019)*"
 publication_short: ""
 
-abstract: ""
+abstract: |
+  This paper models predictive processing of chords using
+  a corpus of Ludwig van Beethoven’s string quartets. A
+  recently published dataset consisting of expert harmonic
+  analyses of all Beethoven string quartets was used to evaluate an 
+  $n$-gram language model as well as a recurrent neural network (RNN) architecture based on long-short-term
+  memory (LSTM). We compare model performances over
+  different periods of Beethoven’s creative activity and provide a baseline 
+  for future research on predictive processing of chords in full Roman numeral representation on this dataset
 
 # Summary. An optional shortened abstract.
 summary: ""

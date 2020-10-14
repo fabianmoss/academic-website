@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Lausanne, Switzerland"
   date_start = "2020-02-15"
   date_end = ""
-  description = "Project: [Distant Listening - The Development of Harmony over Three Centuries (1700–2000)](https://www.epfl.ch/labs/dcml/projects/distant-listening/)"
+  description = "2020 - today: [Distant Listening - The Development of Harmony over Three Centuries (1700–2000)](https://www.epfl.ch/labs/dcml/projects/distant-listening/) <br/> 2021: Digitizing the Dualism Debate: A Case Study in the Computational Analysis of Historical Music Sources"
 
 [[experience]]
   title = "Doctoral Assistant"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = "Dissertation: [Transitions of Tonality - A Model-Based Corpus Study](https://infoscience.epfl.ch/record/273178)"
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Doctoral Assistant"
   company = "Technische Universität Dresden"
   company_url = "http://www.tu-dresden.de"
   location = "Dresden, Germany"
