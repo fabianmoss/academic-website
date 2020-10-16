@@ -45,7 +45,7 @@ tags:
 - Cognitive Modeling
 - Tonality
 - Bayesian Generative Model
-featured: true
+featured: false
 
 # links:
 # - name: ""

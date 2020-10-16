@@ -7,7 +7,7 @@ date: 2020-01-07T08:42:20+01:00
 doi: "10.5281/zenodo.3600088"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-01-07T08:42:20+01:00
+publishDate: 2020-01-01T08:42:20+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
