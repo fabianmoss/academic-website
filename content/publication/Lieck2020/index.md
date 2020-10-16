@@ -14,7 +14,7 @@ publishDate: "2020-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transactions of the International Society of Music Information Retrieval*" #, 1*(1)"
+publication: "*Transactions of the International Society of Music Information Retrieval, 3*(1), 153-164"
 publication_short: "TISMIR"
 
 abstract: > 
@@ -37,7 +37,7 @@ abstract: >
   aspects of the respective epoch.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
 - Tonnetz
