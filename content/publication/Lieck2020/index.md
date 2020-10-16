@@ -15,7 +15,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Transactions of the International Society of Music Information Retrieval, 3*(1), 153-164"
-publication_short: "TISMIR"
+publication_short: ""
 
 abstract: > 
   Pitch-class distributions are of central relevance in music information retrieval, computational musicology
