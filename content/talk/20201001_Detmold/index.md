@@ -4,7 +4,7 @@
 title: "Workshop: Analyzing musical pieces on the Tonnetz using the pitchplots Python library"
 event: 20. Jahreskongress der Gesellschaft für Musiktheorie (GMTH)
 event_url: https://www.gmth.de/veranstaltungen/jahreskongress.aspx
-location: Hochschule für Musik Detmold
+location: Hochschule für Musik Detmold [online]
 address:
   street:
   city:

@@ -4,7 +4,7 @@
 title: "Workshop: Data-Driven Music History"
 event: International Conference of Students of Systematic Musicology (SysMus)
 event_url: https://sites.google.com/york.ac.uk/sysmus2020/
-location: University of York
+location: University of York [online]
 address:
   street:
   city: York
