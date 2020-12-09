@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The importance of modeling in computational musicology"
-event: International Congress of Music and Mathematics (MusMat 2020) - "Perspectives and Applications of Mathematics in Post-Tonal Theories"
+event: Round-table on "Probability and Music", 5th International Congress of Music and Mathematics (MusMat 2020) – Perspectives and Applications of Mathematics in Post-Tonal Theories («Homage to Jamary Oliveira»)
 event_url: https://musmat.org/en/congresso/2020-2/
 location: Universidade Federal do Rio de Janeiro [online]
 address:
@@ -20,15 +20,15 @@ abstract: |
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-12-09T19:00:00+02:00
-date_end: 2020-12-09T20:30:00+02:00
+date: 2020-12-09T18:00:00+02:00
+date_end: 2020-12-09T18:20:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-12-10T00:00:00+02:00
+publishDate: 2020-12-09T00:00:00+02:00
 
 authors: [admin]
-tags: []
+tags: [computational musicology, modeling]
 
 # Is this a featured talk? (true/false)
 featured: false
