@@ -1,3 +1,12 @@
+# Setup
+
+1. Clone `git clone https://github.com/fabianmoss/academic-website`
+2. Switch directory `cd academic-website`
+3. Initialize theme submodule `git submodule update --init --recursive`
+4. Fix error in `themes/academic/layouts/publication/index.html:14`:
+  * replace `{{ if (.Params.publication_types) and (ne (index .Params.publication_types 0) "0") }}` with `{{ if and (.Params.publication_types) (ne (index .Params.publication_types 0) "0") }}`
+5. Test `hugo server`, `localhost:1313`
+
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
