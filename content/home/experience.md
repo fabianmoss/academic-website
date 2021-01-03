@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Lausanne, Switzerland"
   date_start = "2020-02-15"
   date_end = ""
-  description = "2020 - today: [Distant Listening - The Development of Harmony over Three Centuries (1700–2000)](https://www.epfl.ch/labs/dcml/projects/distant-listening/); 2021: Digitizing the Dualism Debate: A Case Study in the Computational Analysis of Historical Music Sources"
+  description = "2020 - today: [Distant Listening - The Development of Harmony over Three Centuries (1700–2000)](https://www.epfl.ch/labs/dcml/projects/distant-listening/); 2021: [Digitizing the Dualism Debate: A Case Study in the Computational Analysis of Historical Music Sources](http://dcmlab.github.io/ddd)"
 
 [[experience]]
   title = "Doctoral Assistant"
