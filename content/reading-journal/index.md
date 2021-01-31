@@ -6,9 +6,7 @@ author: admin
 
 On this page, you'll find lists of things I have read recently that might give you an idea of my academic interests. My personal readings (books) can be found on [Goodreads](https://www.goodreads.com/user/show/108178229-fabian-moss).
 
-## 2021
-
-### Planning to read
+## To read
 
 1. Ewell, P. (2020). Harmonic Functionalism in Russian Music Theory: A Primer. _Theoria - Historical Aspects of Music Theory_, _26_, 61–84.
 2. Dai, A. M., Olah, C., & Le, Q. V. (2015). Document Embedding with Paragraph Vectors. _ArXiv:1507.07998 \[Cs\]_. [http://arxiv.org/abs/1507.07998](http://arxiv.org/abs/1507.07998)
@@ -26,7 +24,9 @@ On this page, you'll find lists of things I have read recently that might give y
 14. Horton, J. (2020). On the Musicological Necessity of Musical Analysis. The Musical Quarterly, gdaa005. https://doi.org/10.1093/musqtl/gdaa005
 15. Morgan, R. P. (2003). The Concept of Unity and Musical Analysis. Music Analysis, 22(1/2), 7–50.
 
-### Already read
+## Already read
+
+### 2021
 
 1. Harte, J. (2011). _Maximum Entropy and Ecology: A Theory of Abundance, Distribution, and Energetics_. [https://doi.org/10.1093/acprof:oso/9780199593415.001.0001](https://doi.org/10.1093/acprof:oso/9780199593415.001.0001) 
 2. Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Winters, J. (2020). How We Do Things With Words: Analyzing Text as Social and Cultural Data. _Frontiers in Artificial Intelligence_, _3_. [https://doi.org/10.3389/frai.2020.00062](https://doi.org/10.3389/frai.2020.00062)
