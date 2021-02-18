@@ -21,8 +21,7 @@ On this page, you'll find lists of things I have read recently that might give y
 11. Kania, D., Kania, P., & Łukaszewicz, T. (2021). Trajectory of Fifths in Music Data Mining. IEEE Access, 9, 8751–8761. https://doi.org/10.1109/ACCESS.2021.3049266
 12. Guest, O., & Martin, A. E. (2021). How Computational Modeling Can Force Theory Building in Psychological Science. Perspectives on Psychological Science, 1745691620970585. https://doi.org/10.1177/1745691620970585
 13. Benjamin, W. E. (1982). Models of Underlying Tonal Structure: How Can They Be Abstract, and How Should They Be Abstract? Music Theory Spectrum, 4, 28–50. https://doi.org/10.2307/746008
-14. Horton, J. (2020). On the Musicological Necessity of Musical Analysis. The Musical Quarterly, gdaa005. https://doi.org/10.1093/musqtl/gdaa005
-15. Morgan, R. P. (2003). The Concept of Unity and Musical Analysis. Music Analysis, 22(1/2), 7–50.
+14. Morgan, R. P. (2003). The Concept of Unity and Musical Analysis. Music Analysis, 22(1/2), 7–50.
 
 ## Already read
 
@@ -41,3 +40,4 @@ On this page, you'll find lists of things I have read recently that might give y
 11. Navarro-Cáceres, M., Caetano, M., Bernardes, G., Sánchez-Barba, M., & Merchán Sánchez-Jara, J. (2020). A Computational Model of Tonal Tension Profile of Chord Progressions in the Tonal Interval Space. _Entropy_, _22_(11), 1291. [https://doi.org/10.3390/e22111291](https://doi.org/10.3390/e22111291)
 12. Fafinski, M., & Piotrowski, M. (2021). Modelling Medieval Vagueness. In INFORMATIK 2020 (pp. 1317–1326). Gesellschaft für Informatik. [https://doi.org/10.18420/inf2020_123](https://doi.org/10.18420/inf2020_123)
 13. Ewell, P. A. (2020). Music Theory and the White Racial Frame. _Music Theory Online_, _26_(2). [https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.ewell.html](https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.ewell.html) 
+14. Horton, J. (2020). On the Musicological Necessity of Musical Analysis. The Musical Quarterly, 103(1–2), 62–104. https://doi.org/10.1093/musqtl/gdaa005
