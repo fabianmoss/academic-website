@@ -22,6 +22,8 @@ On this page, you'll find lists of things I have read recently that might give y
 12. Guest, O., & Martin, A. E. (2021). How Computational Modeling Can Force Theory Building in Psychological Science. Perspectives on Psychological Science, 1745691620970585. https://doi.org/10.1177/1745691620970585
 13. Benjamin, W. E. (1982). Models of Underlying Tonal Structure: How Can They Be Abstract, and How Should They Be Abstract? Music Theory Spectrum, 4, 28–50. https://doi.org/10.2307/746008
 14. Morgan, R. P. (2003). The Concept of Unity and Musical Analysis. Music Analysis, 22(1/2), 7–50.
+15. Arthur, C. (2021). Vicentino versus Palestrina: A computational investigation of voice leading across changing vocal densities. Journal of New Music Research, 50(1), 74–101. https://doi.org/10.1080/09298215.2021.1877729 
+
 
 ## Already read
 
