@@ -19,11 +19,10 @@ On this page, you'll find lists of things I have read recently that might give y
 9. Harrison, P., & Pearce, M. (2020). Representing Harmony in Computational Music Cognition. PsyArXiv. [https://doi.org/10.31234/osf.io/xswp4](https://doi.org/10.31234/osf.io/xswp4)
 10. Bikakis, A., Hyvönen, E., Jean, S., Markhoff, B., & Mosca, A. (2021). Editorial: Special issue on Semantic Web for Cultural Heritage. Semantic Web, Preprint(Preprint), 1–5. https://doi.org/10.3233/SW-210425
 11. Kania, D., Kania, P., & Łukaszewicz, T. (2021). Trajectory of Fifths in Music Data Mining. IEEE Access, 9, 8751–8761. https://doi.org/10.1109/ACCESS.2021.3049266
-12. Guest, O., & Martin, A. E. (2021). How Computational Modeling Can Force Theory Building in Psychological Science. Perspectives on Psychological Science, 1745691620970585. https://doi.org/10.1177/1745691620970585
-13. Benjamin, W. E. (1982). Models of Underlying Tonal Structure: How Can They Be Abstract, and How Should They Be Abstract? Music Theory Spectrum, 4, 28–50. https://doi.org/10.2307/746008
-14. Morgan, R. P. (2003). The Concept of Unity and Musical Analysis. Music Analysis, 22(1/2), 7–50.
-15. Arthur, C. (2021). Vicentino versus Palestrina: A computational investigation of voice leading across changing vocal densities. Journal of New Music Research, 50(1), 74–101. https://doi.org/10.1080/09298215.2021.1877729 
-16. Demany, L., Monteiro, G., Semal, C., Shamma, S., & Carlyon, R. P. (2021). The perception of octave pitch affinity and harmonic fusion have a common origin. Hearing Research, 108213. https://doi.org/10.1016/j.heares.2021.108213 
+12. Benjamin, W. E. (1982). Models of Underlying Tonal Structure: How Can They Be Abstract, and How Should They Be Abstract? Music Theory Spectrum, 4, 28–50. https://doi.org/10.2307/746008
+13. Morgan, R. P. (2003). The Concept of Unity and Musical Analysis. Music Analysis, 22(1/2), 7–50.
+14. Arthur, C. (2021). Vicentino versus Palestrina: A computational investigation of voice leading across changing vocal densities. Journal of New Music Research, 50(1), 74–101. https://doi.org/10.1080/09298215.2021.1877729 
+15. Demany, L., Monteiro, G., Semal, C., Shamma, S., & Carlyon, R. P. (2021). The perception of octave pitch affinity and harmonic fusion have a common origin. Hearing Research, 108213. https://doi.org/10.1016/j.heares.2021.108213 
 
 
 ## Already read
@@ -44,3 +43,4 @@ On this page, you'll find lists of things I have read recently that might give y
 12. Fafinski, M., & Piotrowski, M. (2021). Modelling Medieval Vagueness. In INFORMATIK 2020 (pp. 1317–1326). Gesellschaft für Informatik. [https://doi.org/10.18420/inf2020_123](https://doi.org/10.18420/inf2020_123)
 13. Ewell, P. A. (2020). Music Theory and the White Racial Frame. _Music Theory Online_, _26_(2). [https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.ewell.html](https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.ewell.html) 
 14. Horton, J. (2020). On the Musicological Necessity of Musical Analysis. The Musical Quarterly, 103(1–2), 62–104. https://doi.org/10.1093/musqtl/gdaa005
+15. Guest, O., & Martin, A. E. (2021). How Computational Modeling Can Force Theory Building in Psychological Science. Perspectives on Psychological Science, 1745691620970585. [https://doi.org/10.1177/1745691620970585](https://doi.org/10.1177/1745691620970585)
