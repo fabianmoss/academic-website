@@ -23,6 +23,7 @@ On this page, you'll find lists of things I have read recently that might give y
 13. Morgan, R. P. (2003). The Concept of Unity and Musical Analysis. Music Analysis, 22(1/2), 7–50.
 14. Arthur, C. (2021). Vicentino versus Palestrina: A computational investigation of voice leading across changing vocal densities. Journal of New Music Research, 50(1), 74–101. https://doi.org/10.1080/09298215.2021.1877729 
 15. Demany, L., Monteiro, G., Semal, C., Shamma, S., & Carlyon, R. P. (2021). The perception of octave pitch affinity and harmonic fusion have a common origin. Hearing Research, 108213. https://doi.org/10.1016/j.heares.2021.108213 
+16. Micchi, G., Gotham, M., & Giraud, M. (2020). Not All Roads Lead to Rome: Pitch Representation and Model Architecture for Automatic Harmonic Analysis. Transactions of the International Society for Music Information Retrieval, 3(1), 42–54. https://doi.org/10.5334/tismir.45
 
 
 ## Already read
