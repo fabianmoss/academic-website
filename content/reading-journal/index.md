@@ -10,20 +10,19 @@ On this page, you'll find lists of things I have read recently that might give y
 
 1. Ewell, P. (2020). Harmonic Functionalism in Russian Music Theory: A Primer. _Theoria - Historical Aspects of Music Theory_, _26_, 61–84.
 2. Dai, A. M., Olah, C., & Le, Q. V. (2015). Document Embedding with Paragraph Vectors. _ArXiv:1507.07998 \[Cs\]_. [http://arxiv.org/abs/1507.07998](http://arxiv.org/abs/1507.07998)
-3. Nieuwkerk, M. van, Nijboer, H., & Kisjes, I. (2020). The Felix Meritis Concert Programs Database, 1832–1888: From Archival Ephemera to Searchable Performance Data: Arts and Media. _Research Data Journal for the Humanities and Social Sciences_, _5_(2), 62–78. [https://doi.org/10.1163/24523666-00502006](https://doi.org/10.1163/24523666-00502006)
-4. Manovich, L. (2016). The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics. _Journal of Cultural Analytics_, 11060\. [https://doi.org/10.22148/16.004](https://doi.org/10.22148/16.004)
-5. Taruskin, R. (2011). Catching Up with Rimsky-Korsakov. _Music Theory Spectrum_, _33_(2), 169–185. [https://doi.org/10.1525/mts.2011.33.2.169](https://doi.org/10.1525/mts.2011.33.2.169)
-6. Blau, A. (2011). Uncertainty and the History of Ideas. History and Theory, 50(3), 358–372. [https://doi.org/10.1111/j.1468-2303.2011.00590.x](https://doi.org/10.1111/j.1468-2303.2011.00590.x)
-7. Yarkoni, T. (2019). The Generalizability Crisis. PsyArXiv. [https://doi.org/10.31234/osf.io/jqw35](https://doi.org/10.31234/osf.io/jqw35)
-8. Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). Variational Inference: A Review for Statisticians. Journal of the American Statistical Association, 112(518), 859–877. [https://doi.org/10.1080/01621459.2017.1285773](https://doi.org/10.1080/01621459.2017.1285773)
-9. Harrison, P., & Pearce, M. (2020). Representing Harmony in Computational Music Cognition. PsyArXiv. [https://doi.org/10.31234/osf.io/xswp4](https://doi.org/10.31234/osf.io/xswp4)
-10. Bikakis, A., Hyvönen, E., Jean, S., Markhoff, B., & Mosca, A. (2021). Editorial: Special issue on Semantic Web for Cultural Heritage. Semantic Web, Preprint(Preprint), 1–5. https://doi.org/10.3233/SW-210425
-11. Kania, D., Kania, P., & Łukaszewicz, T. (2021). Trajectory of Fifths in Music Data Mining. IEEE Access, 9, 8751–8761. https://doi.org/10.1109/ACCESS.2021.3049266
-12. Benjamin, W. E. (1982). Models of Underlying Tonal Structure: How Can They Be Abstract, and How Should They Be Abstract? Music Theory Spectrum, 4, 28–50. https://doi.org/10.2307/746008
-13. Morgan, R. P. (2003). The Concept of Unity and Musical Analysis. Music Analysis, 22(1/2), 7–50.
-14. Arthur, C. (2021). Vicentino versus Palestrina: A computational investigation of voice leading across changing vocal densities. Journal of New Music Research, 50(1), 74–101. https://doi.org/10.1080/09298215.2021.1877729 
-15. Demany, L., Monteiro, G., Semal, C., Shamma, S., & Carlyon, R. P. (2021). The perception of octave pitch affinity and harmonic fusion have a common origin. Hearing Research, 108213. https://doi.org/10.1016/j.heares.2021.108213 
-16. Micchi, G., Gotham, M., & Giraud, M. (2020). Not All Roads Lead to Rome: Pitch Representation and Model Architecture for Automatic Harmonic Analysis. Transactions of the International Society for Music Information Retrieval, 3(1), 42–54. https://doi.org/10.5334/tismir.45
+3. Manovich, L. (2016). The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics. _Journal of Cultural Analytics_, 11060\. [https://doi.org/10.22148/16.004](https://doi.org/10.22148/16.004)
+4. Taruskin, R. (2011). Catching Up with Rimsky-Korsakov. _Music Theory Spectrum_, _33_(2), 169–185. [https://doi.org/10.1525/mts.2011.33.2.169](https://doi.org/10.1525/mts.2011.33.2.169)
+5. Blau, A. (2011). Uncertainty and the History of Ideas. History and Theory, 50(3), 358–372. [https://doi.org/10.1111/j.1468-2303.2011.00590.x](https://doi.org/10.1111/j.1468-2303.2011.00590.x)
+6. Yarkoni, T. (2019). The Generalizability Crisis. PsyArXiv. [https://doi.org/10.31234/osf.io/jqw35](https://doi.org/10.31234/osf.io/jqw35)
+7. Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). Variational Inference: A Review for Statisticians. Journal of the American Statistical Association, 112(518), 859–877. [https://doi.org/10.1080/01621459.2017.1285773](https://doi.org/10.1080/01621459.2017.1285773)
+8. Harrison, P., & Pearce, M. (2020). Representing Harmony in Computational Music Cognition. PsyArXiv. [https://doi.org/10.31234/osf.io/xswp4](https://doi.org/10.31234/osf.io/xswp4)
+9. Bikakis, A., Hyvönen, E., Jean, S., Markhoff, B., & Mosca, A. (2021). Editorial: Special issue on Semantic Web for Cultural Heritage. Semantic Web, Preprint(Preprint), 1–5. https://doi.org/10.3233/SW-210425
+10. Kania, D., Kania, P., & Łukaszewicz, T. (2021). Trajectory of Fifths in Music Data Mining. IEEE Access, 9, 8751–8761. https://doi.org/10.1109/ACCESS.2021.3049266
+11. Benjamin, W. E. (1982). Models of Underlying Tonal Structure: How Can They Be Abstract, and How Should They Be Abstract? Music Theory Spectrum, 4, 28–50. https://doi.org/10.2307/746008
+12. Morgan, R. P. (2003). The Concept of Unity and Musical Analysis. Music Analysis, 22(1/2), 7–50.
+13. Arthur, C. (2021). Vicentino versus Palestrina: A computational investigation of voice leading across changing vocal densities. Journal of New Music Research, 50(1), 74–101. https://doi.org/10.1080/09298215.2021.1877729 
+14. Demany, L., Monteiro, G., Semal, C., Shamma, S., & Carlyon, R. P. (2021). The perception of octave pitch affinity and harmonic fusion have a common origin. Hearing Research, 108213. https://doi.org/10.1016/j.heares.2021.108213 
+15. Micchi, G., Gotham, M., & Giraud, M. (2020). Not All Roads Lead to Rome: Pitch Representation and Model Architecture for Automatic Harmonic Analysis. Transactions of the International Society for Music Information Retrieval, 3(1), 42–54. https://doi.org/10.5334/tismir.45
 
 
 ## Already read
@@ -45,3 +44,4 @@ On this page, you'll find lists of things I have read recently that might give y
 13. Ewell, P. A. (2020). Music Theory and the White Racial Frame. _Music Theory Online_, _26_(2). [https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.ewell.html](https://mtosmt.org/issues/mto.20.26.2/mto.20.26.2.ewell.html) 
 14. Horton, J. (2020). On the Musicological Necessity of Musical Analysis. The Musical Quarterly, 103(1–2), 62–104. https://doi.org/10.1093/musqtl/gdaa005
 15. Guest, O., & Martin, A. E. (2021). How Computational Modeling Can Force Theory Building in Psychological Science. Perspectives on Psychological Science, 1745691620970585. [https://doi.org/10.1177/1745691620970585](https://doi.org/10.1177/1745691620970585)
+16. Nieuwkerk, M. van, Nijboer, H., & Kisjes, I. (2020). The Felix Meritis Concert Programs Database, 1832–1888: From Archival Ephemera to Searchable Performance Data: Arts and Media. _Research Data Journal for the Humanities and Social Sciences_, _5_(2), 62–78. [https://doi.org/10.1163/24523666-00502006](https://doi.org/10.1163/24523666-00502006)
