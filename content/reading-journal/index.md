@@ -23,7 +23,7 @@ On this page, you'll find lists of things I have read recently that might give y
 14. Demany, L., Monteiro, G., Semal, C., Shamma, S., & Carlyon, R. P. (2021). The perception of octave pitch affinity and harmonic fusion have a common origin. Hearing Research, 108213. [https://doi.org/10.1016/j.heares.2021.108213](https://doi.org/10.1016/j.heares.2021.108213)
 15. Micchi, G., Gotham, M., & Giraud, M. (2020). Not All Roads Lead to Rome: Pitch Representation and Model Architecture for Automatic Harmonic Analysis. Transactions of the International Society for Music Information Retrieval, 3(1), 42–54. [https://doi.org/10.5334/tismir.45](https://doi.org/10.5334/tismir.45)
 16. Turchin, P., Currie, T. E., Turner, E. A. L., & Gavrilets, S. (2013). War, space, and the evolution of Old World complex societies. Proceedings of the National Academy of Sciences, 110(41), 16384–16389. [https://doi.org/10.1073/pnas.1308825110](https://doi.org/10.1073/pnas.1308825110)
-
+17. Nakamura, E., & Kaneko, K. (2019). Statistical Evolutionary Laws in Music Styles. Scientific Reports, 9(1), 15993. [https://doi.org/10.1038/s41598-019-52380-6](https://doi.org/10.1038/s41598-019-52380-6)
 
 
 ## Already read
