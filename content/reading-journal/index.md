@@ -24,6 +24,10 @@ On this page, you'll find lists of things I have read recently that might give y
 15. Micchi, G., Gotham, M., & Giraud, M. (2020). Not All Roads Lead to Rome: Pitch Representation and Model Architecture for Automatic Harmonic Analysis. Transactions of the International Society for Music Information Retrieval, 3(1), 42–54. [https://doi.org/10.5334/tismir.45](https://doi.org/10.5334/tismir.45)
 16. Turchin, P., Currie, T. E., Turner, E. A. L., & Gavrilets, S. (2013). War, space, and the evolution of Old World complex societies. Proceedings of the National Academy of Sciences, 110(41), 16384–16389. [https://doi.org/10.1073/pnas.1308825110](https://doi.org/10.1073/pnas.1308825110)
 17. Nakamura, E., & Kaneko, K. (2019). Statistical Evolutionary Laws in Music Styles. Scientific Reports, 9(1), 15993. [https://doi.org/10.1038/s41598-019-52380-6](https://doi.org/10.1038/s41598-019-52380-6)
+18. Warrell, J., Salichos, L., & Gerstein, M. (2020). Latent Evolutionary Signatures: A General Framework for Analyzing Music and Cultural Evolution. BioRxiv, 2020.10.23.352930. [https://doi.org/10.1101/2020.10.23.352930](https://doi.org/10.1101/2020.10.23.352930)
+19. Youngblood, M. (2019a). Conformity bias in the cultural transmission of music sampling traditions. Royal Society Open Science, 6(9), 191149. [https://doi.org/10.1098/rsos.191149](https://doi.org/10.1098/rsos.191149)
+20. Youngblood, M. (2019b). Cultural transmission modes of music sampling traditions remain stable despite delocalization in the digital age. PLOS ONE, 14(2), e0211860. [https://doi.org/10.1371/journal.pone.0211860](https://doi.org/10.1371/journal.pone.0211860)
+
 
 
 ## Already read
