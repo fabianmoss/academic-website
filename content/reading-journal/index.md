@@ -25,7 +25,15 @@ On this page, you'll find lists of things I have read recently that might give y
 16. Turchin, P., Currie, T. E., Turner, E. A. L., & Gavrilets, S. (2013). War, space, and the evolution of Old World complex societies. Proceedings of the National Academy of Sciences, 110(41), 16384–16389. [https://doi.org/10.1073/pnas.1308825110](https://doi.org/10.1073/pnas.1308825110)
 17. Nakamura, E., & Kaneko, K. (2019). Statistical Evolutionary Laws in Music Styles. Scientific Reports, 9(1), 15993. [https://doi.org/10.1038/s41598-019-52380-6](https://doi.org/10.1038/s41598-019-52380-6)
 18. Warrell, J., Salichos, L., & Gerstein, M. (2020). Latent Evolutionary Signatures: A General Framework for Analyzing Music and Cultural Evolution. BioRxiv, 2020.10.23.352930. [https://doi.org/10.1101/2020.10.23.352930](https://doi.org/10.1101/2020.10.23.352930)
-19. Youngblood, M. (2019a). Conformity bias in the cultural transmission of music sampling traditions. Royal Society Open Science, 6(9), 191149. [https://doi.org/10.1098/rsos.191149](https://doi.org/10.1098/rsos.191149)
+19. Ellis, B. K., Hwang, H., Savage, P. E., Pan, B.-Y., Cohen, A. J., & Brown, S. (2018). Identifying style-types in a sample of musical improvisations using dimensional reduction and cluster analysis. Psychology of Aesthetics, Creativity, and the Arts, 12(1), 110–122. https://doi.org/10.1037/aca0000072
+20. Lumaca, M., & Baggio, G. (2017). Cultural Transmission and Evolution of Melodic Structures in Multi-generational Signaling Games. Artificial Life, 23(3), 406–423. https://doi.org/10.1162/ARTL_a_00238
+21. Acerbi, A., & Alexander Bentley, R. (2014). Biases in cultural transmission shape the turnover of popular traits. Evolution and Human Behavior, 35(3), 228–236. https://doi.org/10.1016/j.evolhumbehav.2014.02.003
+22. Bentley, R. A., Lipo, C. P., Herzog, H. A., & Hahn, M. W. (2007). Regular rates of popular culture change reflect random copying. Evolution and Human Behavior, 28(3), 151–158. https://doi.org/10.1016/j.evolhumbehav.2006.10.002
+23. Crema, E. R., Edinborough, K., Kerig, T., & Shennan, S. J. (2014). An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change. Journal of Archaeological Science, 50, 160–170. https://doi.org/10.1016/j.jas.2014.07.014
+24. Evans, T. S., & Giometto, A. (2011). Turnover Rate of Popularity Charts in Neutral Models. ArXiv:1105.4044 [Physics]. http://arxiv.org/abs/1105.4044
+25. Kandler, A., & Powell, A. (2018). Generative inference for cultural evolution. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170056. https://doi.org/10.1098/rstb.2017.0056
+26. O’Dwyer, J. P., & Kandler, A. (2017). Inferring processes of cultural transmission: The critical role of rare variants in distinguishing neutrality from novelty biases. Philosophical Transactions of the Royal Society B: Biological Sciences, 372(1735), 20160426. https://doi.org/10.1098/rstb.2016.0426
+
 
 
 
@@ -53,3 +61,4 @@ On this page, you'll find lists of things I have read recently that might give y
 18. Kania, D., Kania, P., & Łukaszewicz, T. (2021). Trajectory of Fifths in Music Data Mining. IEEE Access, 9, 8751–8761. [https://doi.org/10.1109/ACCESS.2021.3049266](https://doi.org/10.1109/ACCESS.2021.3049266)
 19. Harte, C., Sandler, M., & Gasser, M. (2006). Detecting harmonic change in musical audio. Proceedings of the 1st ACM Workshop on Audio and Music Computing Multimedia  - AMCMM '06, 21. [https://doi.org/10.1145/1178723.1178727](https://doi.org/10.1145/1178723.1178727)
 20. Youngblood, M. (2019). Cultural transmission modes of music sampling traditions remain stable despite delocalization in the digital age. PLOS ONE, 14(2), e0211860. [https://doi.org/10.1371/journal.pone.0211860](https://doi.org/10.1371/journal.pone.0211860)
+21. Youngblood, M. (2019). Conformity bias in the cultural transmission of music sampling traditions. Royal Society Open Science, 6(9), 191149. [https://doi.org/10.1098/rsos.191149](https://doi.org/10.1098/rsos.191149)
