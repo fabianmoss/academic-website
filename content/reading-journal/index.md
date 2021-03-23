@@ -33,8 +33,8 @@ On this page, you'll find lists of things I have read recently that might give y
 24. Evans, T. S., & Giometto, A. (2011). Turnover Rate of Popularity Charts in Neutral Models. ArXiv:1105.4044 [Physics]. http://arxiv.org/abs/1105.4044
 25. Kandler, A., & Powell, A. (2018). Generative inference for cultural evolution. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170056. https://doi.org/10.1098/rstb.2017.0056
 26. O’Dwyer, J. P., & Kandler, A. (2017). Inferring processes of cultural transmission: The critical role of rare variants in distinguishing neutrality from novelty biases. Philosophical Transactions of the Royal Society B: Biological Sciences, 372(1735), 20160426. https://doi.org/10.1098/rstb.2016.0426
-
-
+27. Wodak, R. (2015). Critical Discourse Analysis, Discourse-Historical Approach (p. 14pp). [https://doi.org/10.4135/9780857028020.d6](https://doi.org/10.4135/9780857028020.d6)
+28. Reisigl, M. (2017). The Discourse-Historical Approach. Routledge Handbooks Online. [https://doi.org/10.4324/9781315739342.ch3](https://doi.org/10.4324/9781315739342.ch3)
 
 
 ## Already read
