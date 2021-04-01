@@ -65,3 +65,4 @@ On this page, you'll find lists of things I have read recently that might give y
 21. Youngblood, M. (2019b). Conformity bias in the cultural transmission of music sampling traditions. Royal Society Open Science, 6(9), 191149. [https://doi.org/10.1098/rsos.191149](https://doi.org/10.1098/rsos.191149)
 22. Arten, S. (2018). The origin of fixed-scale solmization in The Whole Booke of Psalmes. Early Music, 46(1), 149–165. [https://doi.org/10.1093/em/cay003](https://doi.org/10.1093/em/cay003)
 23. Bentley, R. A., Lipo, C. P., Herzog, H. A., & Hahn, M. W. (2007). Regular rates of popular culture change reflect random copying. Evolution and Human Behavior, 28(3), 151–158. https://doi.org/10.1016/j.evolhumbehav.2006.10.002
+24. Ballance, J. (2020). Pitch-Class Distributions in the Music of Anton Webern. CHR 2020: Workshop on Computational Humanities Research, 214–224. http://ceur-ws.org/Vol-2723/short5.pdf
