@@ -4,7 +4,7 @@
 title: "A Historical Analysis of Harmonic Progressions Using Chord Embeddings"
 authors: [Elia Anzuoni, Sinan Ayhan, Federico Dutto, Andrew McLeod, admin, Martin Rohrmeier]
 date: 2021-07-01 #T11:56:51+02:00
-doi: ""
+doi: "https://doi.org/10.5281/zenodo.5038910"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-07-01 #T11:56:51+02:00
